@@ -42,3 +42,52 @@ jmeter -g “location of results file.jtl” -o “location of results file.html
 ```
 ### Test Setup
 The performance tests were conducted using JMeter with different levels of concurrency. Each test executed a specified number of concurrent requests with a fixed loop count to evaluate the system's response time, throughput, and error rate.
+The following tests were performed:
+1. 10 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~1
+- Total Concurrent API Requests: 70
+2. 50 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~7
+- Total Concurrent API Requests: 350
+3. 100 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~11
+- Total Concurrent API Requests: 700
+4. 200 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~23
+- Total Concurrent API Requests: 1400
+5. 300 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~35
+- Total Concurrent API Requests: 2100
+6. 400 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~46
+- Total Concurrent API Requests: 2800
+7. 500 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~58
+- Total Concurrent API Requests: 3500
+8. 600 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~70
+- Total Concurrent API Requests: 4200
+9. 700 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~81
+- Total Concurrent API Requests: 4900
+10. 800 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~93
+- Total Concurrent API Requests: 5600
+11. 900 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~105
+- Total Concurrent API Requests: 6300
+12. 1000 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~116
+- Total Concurrent API Requests: 7000
+13. 1200 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~140
+- Total Concurrent API Requests: 8400
+14. 1500 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~175
+- Total Concurrent API Requests: 10500
+15. 1700 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~198
+- Total Concurrent API Requests: 11900
+16. 2000 Concurrent Requests with 1 Loop Count:
+- Average Transactions Per Second (TPS) for Total Samples: ~226
+- Total Concurrent API Requests: 14000
