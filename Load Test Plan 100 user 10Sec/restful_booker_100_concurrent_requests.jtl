@@ -1,0 +1,701 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1753979200085,1662,Create Token for Authentication,200,OK,Thread Group 1-3,text,true,,770,250,19,19,https://restful-booker.herokuapp.com/auth,1662,0,1312
+1753979200286,1465,Create Token for Authentication,200,OK,Thread Group 1-5,text,true,,770,250,19,19,https://restful-booker.herokuapp.com/auth,1465,0,1112
+1753979200385,1379,Create Token for Authentication,200,OK,Thread Group 1-6,text,true,,770,250,19,19,https://restful-booker.herokuapp.com/auth,1379,0,1022
+1753979200187,1557,Create Token for Authentication,200,OK,Thread Group 1-4,text,true,,770,250,19,19,https://restful-booker.herokuapp.com/auth,1552,0,1202
+1753979200039,1705,Create Token for Authentication,200,OK,Thread Group 1-1,text,true,,770,250,19,19,https://restful-booker.herokuapp.com/auth,1700,0,1363
+1753979200039,1705,Create Token for Authentication,200,OK,Thread Group 1-2,text,true,,770,250,19,19,https://restful-booker.herokuapp.com/auth,1703,0,1352
+1753979200485,1385,Create Token for Authentication,200,OK,Thread Group 1-7,text,true,,770,250,20,20,https://restful-booker.herokuapp.com/auth,1385,0,1028
+1753979200586,1383,Create Token for Authentication,200,OK,Thread Group 1-8,text,true,,782,250,21,21,https://restful-booker.herokuapp.com/auth,1383,0,1049
+1753979200686,1378,Create Token for Authentication,200,OK,Thread Group 1-9,text,true,,782,250,22,22,https://restful-booker.herokuapp.com/auth,1378,0,1025
+1753979201785,335,Create Booking,200,OK,Thread Group 1-1,text,true,,953,465,23,23,https://restful-booker.herokuapp.com/booking,335,0,0
+1753979201785,349,Create Booking,200,OK,Thread Group 1-2,text,true,,953,465,23,23,https://restful-booker.herokuapp.com/booking,349,0,0
+1753979201785,349,Create Booking,200,OK,Thread Group 1-4,text,true,,953,465,23,23,https://restful-booker.herokuapp.com/booking,349,0,0
+1753979201785,356,Create Booking,200,OK,Thread Group 1-3,text,true,,953,465,23,23,https://restful-booker.herokuapp.com/booking,356,0,0
+1753979201785,357,Create Booking,200,OK,Thread Group 1-6,text,true,,953,465,23,23,https://restful-booker.herokuapp.com/booking,357,0,0
+1753979201785,358,Create Booking,200,OK,Thread Group 1-5,text,true,,953,465,23,23,https://restful-booker.herokuapp.com/booking,358,0,0
+1753979200785,1421,Create Token for Authentication,200,OK,Thread Group 1-10,text,true,,782,250,24,24,https://restful-booker.herokuapp.com/auth,1421,0,1059
+1753979201871,360,Create Booking,200,OK,Thread Group 1-7,text,true,,953,465,24,24,https://restful-booker.herokuapp.com/booking,360,0,0
+1753979200886,1387,Create Token for Authentication,200,OK,Thread Group 1-11,text,true,,782,250,24,24,https://restful-booker.herokuapp.com/auth,1387,0,1038
+1753979201970,342,Create Booking,200,OK,Thread Group 1-8,text,true,,953,465,25,25,https://restful-booker.herokuapp.com/booking,342,0,0
+1753979200985,1338,Create Token for Authentication,200,OK,Thread Group 1-12,text,true,,782,250,25,25,https://restful-booker.herokuapp.com/auth,1338,0,1021
+1753979202065,342,Create Booking,200,OK,Thread Group 1-9,text,true,,953,465,26,26,https://restful-booker.herokuapp.com/booking,341,0,0
+1753979201082,1367,Create Token for Authentication,200,OK,Thread Group 1-13,text,true,,782,250,26,26,https://restful-booker.herokuapp.com/auth,1367,0,1022
+1753979202121,349,GET Booking,200,OK,Thread Group 1-1,text,true,,924,168,26,26,https://restful-booker.herokuapp.com/booking/2931,349,0,0
+1753979202134,338,GET Booking,200,OK,Thread Group 1-4,text,true,,924,168,26,26,https://restful-booker.herokuapp.com/booking/2929,338,0,0
+1753979202134,346,GET Booking,200,OK,Thread Group 1-2,text,true,,924,168,26,26,https://restful-booker.herokuapp.com/booking/2933,346,0,0
+1753979202142,348,GET Booking,200,OK,Thread Group 1-3,text,true,,924,168,27,27,https://restful-booker.herokuapp.com/booking/2932,348,0,0
+1753979202143,358,GET Booking,200,OK,Thread Group 1-6,text,true,,924,168,27,27,https://restful-booker.herokuapp.com/booking/2934,358,0,0
+1753979202144,361,GET Booking,200,OK,Thread Group 1-5,text,true,,924,168,27,27,https://restful-booker.herokuapp.com/booking/2930,361,0,0
+1753979202207,349,Create Booking,200,OK,Thread Group 1-10,text,true,,953,465,27,27,https://restful-booker.herokuapp.com/booking,349,0,0
+1753979202232,349,GET Booking,200,OK,Thread Group 1-7,text,true,,924,168,27,27,https://restful-booker.herokuapp.com/booking/2936,349,0,0
+1753979202274,340,Create Booking,200,OK,Thread Group 1-11,text,true,,953,465,28,28,https://restful-booker.herokuapp.com/booking,340,0,0
+1753979201183,1439,Create Token for Authentication,200,OK,Thread Group 1-14,text,true,,782,250,28,28,https://restful-booker.herokuapp.com/auth,1439,0,1086
+1753979202323,327,Create Booking,200,OK,Thread Group 1-12,text,true,,953,465,28,28,https://restful-booker.herokuapp.com/booking,327,0,0
+1753979202313,351,GET Booking,200,OK,Thread Group 1-8,text,true,,924,168,28,28,https://restful-booker.herokuapp.com/booking/2937,351,0,0
+1753979201284,1420,Create Token for Authentication,200,OK,Thread Group 1-15,text,true,,782,250,29,29,https://restful-booker.herokuapp.com/auth,1420,0,1044
+1753979202408,341,GET Booking,200,OK,Thread Group 1-9,text,true,,924,168,29,29,https://restful-booker.herokuapp.com/booking/2939,341,0,0
+1753979201383,1404,Create Token for Authentication,200,OK,Thread Group 1-16,text,true,,782,250,30,30,https://restful-booker.herokuapp.com/auth,1404,0,1042
+1753979202451,354,Create Booking,200,OK,Thread Group 1-13,text,true,,953,465,30,30,https://restful-booker.herokuapp.com/booking,354,0,0
+1753979202473,339,Update Booking,200,OK,Thread Group 1-4,text,true,,924,517,30,30,https://restful-booker.herokuapp.com/booking/2929,339,0,0
+1753979202491,330,Update Booking,200,OK,Thread Group 1-3,text,true,,924,517,30,30,https://restful-booker.herokuapp.com/booking/2932,330,0,0
+1753979202471,351,Update Booking,200,OK,Thread Group 1-1,text,true,,924,517,30,30,https://restful-booker.herokuapp.com/booking/2931,351,0,0
+1753979202480,348,Update Booking,200,OK,Thread Group 1-2,text,true,,924,517,30,30,https://restful-booker.herokuapp.com/booking/2933,348,0,0
+1753979202505,333,Update Booking,200,OK,Thread Group 1-5,text,true,,924,517,30,30,https://restful-booker.herokuapp.com/booking/2930,333,0,0
+1753979201486,1354,Create Token for Authentication,200,OK,Thread Group 1-17,text,true,,782,250,30,30,https://restful-booker.herokuapp.com/auth,1354,0,1007
+1753979202502,353,Update Booking,200,OK,Thread Group 1-6,text,true,,924,517,30,30,https://restful-booker.herokuapp.com/booking/2934,353,0,0
+1753979202557,335,GET Booking,200,OK,Thread Group 1-10,text,true,,908,168,31,31,https://restful-booker.herokuapp.com/booking/2940,335,0,0
+1753979202582,335,Update Booking,200,OK,Thread Group 1-7,text,true,,908,517,31,31,https://restful-booker.herokuapp.com/booking/2936,335,0,0
+1753979201583,1369,Create Token for Authentication,200,OK,Thread Group 1-18,text,true,,766,250,31,31,https://restful-booker.herokuapp.com/auth,1369,0,1018
+1753979202614,350,GET Booking,200,OK,Thread Group 1-11,text,true,,908,168,31,31,https://restful-booker.herokuapp.com/booking/2942,350,0,0
+1753979202623,359,Create Booking,200,OK,Thread Group 1-14,text,true,,937,465,32,32,https://restful-booker.herokuapp.com/booking,359,0,0
+1753979201683,1302,Create Token for Authentication,200,OK,Thread Group 1-19,text,true,,766,250,32,32,https://restful-booker.herokuapp.com/auth,1302,0,964
+1753979202650,344,GET Booking,200,OK,Thread Group 1-12,text,true,,908,168,32,32,https://restful-booker.herokuapp.com/booking/2943,344,0,0
+1753979202664,357,Update Booking,200,OK,Thread Group 1-8,text,true,,908,517,32,32,https://restful-booker.herokuapp.com/booking/2937,357,0,0
+1753979202705,363,Create Booking,200,OK,Thread Group 1-15,text,true,,937,465,32,32,https://restful-booker.herokuapp.com/booking,363,0,0
+1753979202749,348,Update Booking,200,OK,Thread Group 1-9,text,true,,908,517,33,33,https://restful-booker.herokuapp.com/booking/2939,348,0,0
+1753979202813,336,GET Booking After Upadting,200,OK,Thread Group 1-4,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/2929,336,0,0
+1753979202787,362,Create Booking,200,OK,Thread Group 1-16,text,true,,937,465,33,33,https://restful-booker.herokuapp.com/booking,362,0,0
+1753979201784,1367,Create Token for Authentication,200,OK,Thread Group 1-20,text,true,,766,250,33,33,https://restful-booker.herokuapp.com/auth,1367,0,1030
+1753979202806,355,GET Booking,200,OK,Thread Group 1-13,text,true,,908,168,33,33,https://restful-booker.herokuapp.com/booking/2944,355,0,0
+1753979202822,342,GET Booking After Upadting,200,OK,Thread Group 1-3,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/2932,342,0,0
+1753979202828,337,GET Booking After Upadting,200,OK,Thread Group 1-2,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/2933,337,0,0
+1753979202823,356,GET Booking After Upadting,200,OK,Thread Group 1-1,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/2931,356,0,0
+1753979202838,343,GET Booking After Upadting,200,OK,Thread Group 1-5,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/2930,343,0,0
+1753979202855,344,GET Booking After Upadting,200,OK,Thread Group 1-6,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2934,344,0,0
+1753979202840,360,Create Booking,200,OK,Thread Group 1-17,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,360,0,0
+1753979201883,1319,Create Token for Authentication,200,OK,Thread Group 1-21,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1319,0,970
+1753979202892,340,Update Booking,200,OK,Thread Group 1-10,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/2940,340,0,0
+1753979202918,343,GET Booking After Upadting,200,OK,Thread Group 1-7,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2936,343,0,0
+1753979202964,332,Update Booking,200,OK,Thread Group 1-11,text,true,,908,517,35,35,https://restful-booker.herokuapp.com/booking/2942,332,0,0
+1753979202952,344,Create Booking,200,OK,Thread Group 1-18,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,344,0,0
+1753979202983,342,GET Booking,200,OK,Thread Group 1-14,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/2947,342,0,0
+1753979202986,353,Create Booking,200,OK,Thread Group 1-19,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,353,0,0
+1753979201984,1357,Create Token for Authentication,200,OK,Thread Group 1-22,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1357,0,1029
+1753979202994,355,Update Booking,200,OK,Thread Group 1-12,text,true,,908,517,35,35,https://restful-booker.herokuapp.com/booking/2943,355,0,0
+1753979203021,340,GET Booking After Upadting,200,OK,Thread Group 1-8,text,true,,908,155,35,35,https://restful-booker.herokuapp.com/booking/2937,340,0,0
+1753979203069,343,GET Booking,200,OK,Thread Group 1-15,text,true,,908,168,36,36,https://restful-booker.herokuapp.com/booking/2949,343,0,0
+1753979203097,324,GET Booking After Upadting,200,OK,Thread Group 1-9,text,true,,908,155,36,36,https://restful-booker.herokuapp.com/booking/2939,324,0,0
+1753979202084,1350,Create Token for Authentication,200,OK,Thread Group 1-23,text,true,,766,250,36,36,https://restful-booker.herokuapp.com/auth,1350,0,1026
+1753979203149,324,Partial Upadate Booking,200,OK,Thread Group 1-4,text,true,,910,333,36,36,https://restful-booker.herokuapp.com/booking/2929,324,0,0
+1753979203149,333,GET Booking,200,OK,Thread Group 1-16,text,true,,908,168,37,37,https://restful-booker.herokuapp.com/booking/2951,333,0,0
+1753979203161,330,Update Booking,200,OK,Thread Group 1-13,text,true,,908,517,37,37,https://restful-booker.herokuapp.com/booking/2944,330,0,0
+1753979203165,326,Partial Upadate Booking,200,OK,Thread Group 1-2,text,true,,910,333,37,37,https://restful-booker.herokuapp.com/booking/2933,326,0,0
+1753979203152,339,Create Booking,200,OK,Thread Group 1-20,text,true,,937,465,37,37,https://restful-booker.herokuapp.com/booking,339,0,0
+1753979203165,342,Partial Upadate Booking,200,OK,Thread Group 1-3,text,true,,910,333,37,37,https://restful-booker.herokuapp.com/booking/2932,342,0,0
+1753979203180,331,Partial Upadate Booking,200,OK,Thread Group 1-1,text,true,,910,333,37,37,https://restful-booker.herokuapp.com/booking/2931,331,0,0
+1753979203182,351,Partial Upadate Booking,200,OK,Thread Group 1-5,text,true,,910,333,37,37,https://restful-booker.herokuapp.com/booking/2930,351,0,0
+1753979203199,334,Partial Upadate Booking,200,OK,Thread Group 1-6,text,true,,910,333,37,37,https://restful-booker.herokuapp.com/booking/2934,334,0,0
+1753979202183,1353,Create Token for Authentication,200,OK,Thread Group 1-24,text,true,,766,250,37,37,https://restful-booker.herokuapp.com/auth,1353,0,997
+1753979203202,358,Create Booking,200,OK,Thread Group 1-21,text,true,,937,465,37,37,https://restful-booker.herokuapp.com/booking,358,0,0
+1753979203201,363,GET Booking,200,OK,Thread Group 1-17,text,true,,908,168,37,37,https://restful-booker.herokuapp.com/booking/2953,363,0,0
+1753979203232,343,GET Booking After Upadting,200,OK,Thread Group 1-10,text,true,,908,155,37,37,https://restful-booker.herokuapp.com/booking/2940,343,0,0
+1753979203261,342,Partial Upadate Booking,200,OK,Thread Group 1-7,text,true,,910,333,38,38,https://restful-booker.herokuapp.com/booking/2936,342,0,0
+1753979203296,313,GET Booking,200,OK,Thread Group 1-18,text,true,,908,168,38,38,https://restful-booker.herokuapp.com/booking/2954,313,0,0
+1753979202283,1328,Create Token for Authentication,200,OK,Thread Group 1-25,text,true,,766,250,38,38,https://restful-booker.herokuapp.com/auth,1328,0,1012
+1753979203296,318,GET Booking After Upadting,200,OK,Thread Group 1-11,text,true,,908,155,38,38,https://restful-booker.herokuapp.com/booking/2942,318,0,0
+1753979203326,334,Update Booking,200,OK,Thread Group 1-14,text,true,,908,517,38,38,https://restful-booker.herokuapp.com/booking/2947,334,0,0
+1753979203341,327,Create Booking,200,OK,Thread Group 1-22,text,true,,937,465,38,38,https://restful-booker.herokuapp.com/booking,327,0,0
+1753979203362,314,Partial Upadate Booking,200,OK,Thread Group 1-8,text,true,,910,333,38,38,https://restful-booker.herokuapp.com/booking/2937,314,0,0
+1753979203340,348,GET Booking,200,OK,Thread Group 1-19,text,true,,908,168,39,39,https://restful-booker.herokuapp.com/booking/2956,348,0,0
+1753979203349,353,GET Booking After Upadting,200,OK,Thread Group 1-12,text,true,,908,155,39,39,https://restful-booker.herokuapp.com/booking/2943,353,0,0
+1753979203413,319,Update Booking,200,OK,Thread Group 1-15,text,true,,908,517,39,39,https://restful-booker.herokuapp.com/booking/2949,319,0,0
+1753979203421,323,Partial Upadate Booking,200,OK,Thread Group 1-9,text,true,,910,333,39,39,https://restful-booker.herokuapp.com/booking/2939,323,0,0
+1753979202384,1366,Create Token for Authentication,200,OK,Thread Group 1-26,text,true,,766,250,39,39,https://restful-booker.herokuapp.com/auth,1366,0,1021
+1753979203435,325,Create Booking,200,OK,Thread Group 1-23,text,true,,937,465,39,39,https://restful-booker.herokuapp.com/booking,325,0,0
+1753979203474,325,Delete Booking,201,Created,Thread Group 1-4,text,true,,743,281,40,40,https://restful-booker.herokuapp.com/booking/2929,325,0,0
+1753979203491,308,GET Booking After Upadting,200,OK,Thread Group 1-13,text,true,,908,155,40,40,https://restful-booker.herokuapp.com/booking/2944,308,0,0
+1753979203482,317,Update Booking,200,OK,Thread Group 1-16,text,true,,908,517,40,40,https://restful-booker.herokuapp.com/booking/2951,317,0,0
+1753979202483,1320,Create Token for Authentication,200,OK,Thread Group 1-27,text,true,,766,250,39,39,https://restful-booker.herokuapp.com/auth,1320,0,997
+1753979203511,309,Delete Booking,201,Created,Thread Group 1-1,text,true,,743,281,39,39,https://restful-booker.herokuapp.com/booking/2931,309,0,0
+1753979203491,331,Delete Booking,201,Created,Thread Group 1-2,text,true,,743,281,38,38,https://restful-booker.herokuapp.com/booking/2933,331,0,0
+1753979203492,342,GET Booking,200,OK,Thread Group 1-20,text,true,,908,168,37,37,https://restful-booker.herokuapp.com/booking/2959,342,0,0
+1753979203507,338,Delete Booking,201,Created,Thread Group 1-3,text,true,,743,281,37,37,https://restful-booker.herokuapp.com/booking/2932,338,0,0
+1753979203534,339,Delete Booking,201,Created,Thread Group 1-6,text,true,,743,281,36,36,https://restful-booker.herokuapp.com/booking/2934,338,0,0
+1753979203537,336,Create Booking,200,OK,Thread Group 1-24,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,336,0,0
+1753979203534,341,Delete Booking,201,Created,Thread Group 1-5,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2930,341,0,0
+1753979203561,333,GET Booking,200,OK,Thread Group 1-21,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2960,333,0,0
+1753979202583,1325,Create Token for Authentication,200,OK,Thread Group 1-28,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1325,0,996
+1753979203565,346,Update Booking,200,OK,Thread Group 1-17,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2953,346,0,0
+1753979203609,312,Update Booking,200,OK,Thread Group 1-18,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2954,312,0,0
+1753979203575,347,Partial Upadate Booking,200,OK,Thread Group 1-10,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2940,347,0,0
+1753979203612,330,Create Booking,200,OK,Thread Group 1-25,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,330,0,0
+1753979203614,332,Partial Upadate Booking,200,OK,Thread Group 1-11,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2942,332,0,0
+1753979203603,344,Delete Booking,201,Created,Thread Group 1-7,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2936,344,0,0
+1753979203676,318,Delete Booking,201,Created,Thread Group 1-8,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2937,318,0,0
+1753979202682,1312,Create Token for Authentication,200,OK,Thread Group 1-29,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1312,0,997
+1753979203660,347,GET Booking After Upadting,200,OK,Thread Group 1-14,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2947,347,0,0
+1753979203668,339,GET Booking,200,OK,Thread Group 1-22,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/2963,339,0,0
+1753979203689,320,Update Booking,200,OK,Thread Group 1-19,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/2956,320,0,0
+1753979203703,323,Partial Upadate Booking,200,OK,Thread Group 1-12,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2943,323,0,0
+1753979203732,332,GET Booking After Upadting,200,OK,Thread Group 1-15,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2949,332,0,0
+1753979203751,322,Create Booking,200,OK,Thread Group 1-26,text,true,,941,465,34,34,https://restful-booker.herokuapp.com/booking,321,0,0
+1753979203744,345,Delete Booking,201,Created,Thread Group 1-9,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2939,345,0,0
+1753979203761,338,GET Booking,200,OK,Thread Group 1-23,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/2964,338,0,0
+1753979203799,324,Partial Upadate Booking,200,OK,Thread Group 1-13,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2944,324,0,0
+1753979203799,334,GET Booking After Upadting,200,OK,Thread Group 1-16,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2951,334,0,0
+1753979202784,1360,Create Token for Authentication,200,OK,Thread Group 1-30,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1360,0,1044
+1753979203803,348,Create Booking,200,OK,Thread Group 1-27,text,true,,941,465,34,34,https://restful-booker.herokuapp.com/booking,347,0,0
+1753979203835,349,Update Booking,200,OK,Thread Group 1-20,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2959,349,0,0
+1753979203874,323,GET Booking,200,OK,Thread Group 1-24,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2965,323,0,0
+1753979202882,1317,Create Token for Authentication,200,OK,Thread Group 1-31,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1317,0,986
+1753979203895,313,Update Booking,200,OK,Thread Group 1-21,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2960,313,0,0
+1753979203912,323,GET Booking After Upadting,200,OK,Thread Group 1-17,text,true,,912,155,35,35,https://restful-booker.herokuapp.com/booking/2953,323,0,0
+1753979203921,326,GET Booking After Upadting,200,OK,Thread Group 1-18,text,true,,912,155,35,35,https://restful-booker.herokuapp.com/booking/2954,326,0,0
+1753979203908,345,Create Booking,200,OK,Thread Group 1-28,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,345,0,0
+1753979203923,351,Delete Booking,201,Created,Thread Group 1-10,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2940,351,0,0
+1753979202983,1291,Create Token for Authentication,200,OK,Thread Group 1-32,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1291,0,965
+1753979203942,350,GET Booking,200,OK,Thread Group 1-25,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2967,350,0,0
+1753979203947,351,Delete Booking,201,Created,Thread Group 1-11,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2942,351,0,0
+1753979203994,328,Create Booking,200,OK,Thread Group 1-29,text,true,,941,465,34,34,https://restful-booker.herokuapp.com/booking,328,0,0
+1753979204010,314,GET Booking After Upadting,200,OK,Thread Group 1-19,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2956,314,0,0
+1753979204026,311,Delete Booking,201,Created,Thread Group 1-12,text,true,,747,281,34,34,https://restful-booker.herokuapp.com/booking/2943,311,0,0
+1753979204008,357,Update Booking,200,OK,Thread Group 1-22,text,true,,912,517,33,33,https://restful-booker.herokuapp.com/booking/2963,357,0,0
+1753979204008,366,Partial Upadate Booking,200,OK,Thread Group 1-14,text,true,,914,333,33,33,https://restful-booker.herokuapp.com/booking/2947,366,0,0
+1753979204075,314,GET Booking,200,OK,Thread Group 1-26,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/2969,314,0,0
+1753979204064,343,Partial Upadate Booking,200,OK,Thread Group 1-15,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2949,343,0,0
+1753979203083,1331,Create Token for Authentication,200,OK,Thread Group 1-33,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1330,0,1015
+1753979204123,330,Delete Booking,201,Created,Thread Group 1-13,text,true,,747,281,34,34,https://restful-booker.herokuapp.com/booking/2944,330,0,0
+1753979204100,357,Update Booking,200,OK,Thread Group 1-23,text,true,,912,517,33,33,https://restful-booker.herokuapp.com/booking/2964,357,0,0
+1753979204144,316,Create Booking,200,OK,Thread Group 1-30,text,true,,941,465,33,33,https://restful-booker.herokuapp.com/booking,316,0,0
+1753979204134,341,Partial Upadate Booking,200,OK,Thread Group 1-16,text,true,,914,333,33,33,https://restful-booker.herokuapp.com/booking/2951,341,0,0
+1753979203184,1297,Create Token for Authentication,200,OK,Thread Group 1-34,text,true,,770,250,33,33,https://restful-booker.herokuapp.com/auth,1297,0,962
+1753979204151,356,GET Booking,200,OK,Thread Group 1-27,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/2971,356,0,0
+1753979204197,320,Update Booking,200,OK,Thread Group 1-24,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/2965,320,0,0
+1753979204209,317,GET Booking After Upadting,200,OK,Thread Group 1-21,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2960,317,0,0
+1753979204185,349,GET Booking After Upadting,200,OK,Thread Group 1-20,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2959,349,0,0
+1753979204200,338,Create Booking,200,OK,Thread Group 1-31,text,true,,941,465,34,34,https://restful-booker.herokuapp.com/booking,338,0,0
+1753979204235,331,Partial Upadate Booking,200,OK,Thread Group 1-17,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2953,331,0,0
+1753979204247,339,Partial Upadate Booking,200,OK,Thread Group 1-18,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2954,339,0,0
+1753979204254,353,GET Booking,200,OK,Thread Group 1-28,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2972,353,0,0
+1753979203283,1324,Create Token for Authentication,200,OK,Thread Group 1-35,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1324,0,976
+1753979204274,334,Create Booking,200,OK,Thread Group 1-32,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,334,0,0
+1753979204324,322,Partial Upadate Booking,200,OK,Thread Group 1-19,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2956,322,0,0
+1753979204293,353,Update Booking,200,OK,Thread Group 1-25,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2967,353,0,0
+1753979204322,337,GET Booking,200,OK,Thread Group 1-29,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2973,337,0,0
+1753979203382,1290,Create Token for Authentication,200,OK,Thread Group 1-36,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1290,0,972
+1753979204389,325,Update Booking,200,OK,Thread Group 1-26,text,true,,912,517,36,36,https://restful-booker.herokuapp.com/booking/2969,325,0,0
+1753979204365,363,GET Booking After Upadting,200,OK,Thread Group 1-22,text,true,,912,155,36,36,https://restful-booker.herokuapp.com/booking/2963,363,0,0
+1753979204414,325,Create Booking,200,OK,Thread Group 1-33,text,true,,941,465,36,36,https://restful-booker.herokuapp.com/booking,325,0,0
+1753979204374,371,Delete Booking,201,Created,Thread Group 1-14,text,true,,747,281,36,36,https://restful-booker.herokuapp.com/booking/2947,371,0,0
+1753979204407,349,Delete Booking,201,Created,Thread Group 1-15,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2949,349,0,0
+1753979204460,325,GET Booking,200,OK,Thread Group 1-30,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2976,325,0,0
+1753979204457,357,GET Booking After Upadting,200,OK,Thread Group 1-23,text,true,,912,155,35,35,https://restful-booker.herokuapp.com/booking/2964,357,0,0
+1753979204476,345,Delete Booking,201,Created,Thread Group 1-16,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2951,345,0,0
+1753979204482,339,Create Booking,200,OK,Thread Group 1-34,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,339,0,0
+1753979204517,322,GET Booking After Upadting,200,OK,Thread Group 1-24,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2965,322,0,0
+1753979203482,1365,Create Token for Authentication,200,OK,Thread Group 1-37,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1365,0,1011
+1753979204526,327,Partial Upadate Booking,200,OK,Thread Group 1-21,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2960,327,0,0
+1753979204508,350,Update Booking,200,OK,Thread Group 1-27,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/2971,350,0,0
+1753979204540,337,GET Booking,200,OK,Thread Group 1-31,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/2977,337,0,0
+1753979204535,354,Partial Upadate Booking,200,OK,Thread Group 1-20,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2959,354,0,0
+1753979204566,338,Delete Booking,201,Created,Thread Group 1-17,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2953,338,0,0
+1753979204587,336,Delete Booking,201,Created,Thread Group 1-18,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/2954,336,0,0
+1753979204609,336,GET Booking,200,OK,Thread Group 1-32,text,true,,908,168,33,33,https://restful-booker.herokuapp.com/booking/2979,336,0,0
+1753979204607,341,Create Booking,200,OK,Thread Group 1-35,text,true,,937,465,33,33,https://restful-booker.herokuapp.com/booking,341,0,0
+1753979204607,347,Update Booking,200,OK,Thread Group 1-28,text,true,,908,517,33,33,https://restful-booker.herokuapp.com/booking/2972,347,0,0
+1753979204646,329,Delete Booking,201,Created,Thread Group 1-19,text,true,,743,281,33,33,https://restful-booker.herokuapp.com/booking/2956,329,0,0
+1753979203583,1397,Create Token for Authentication,200,OK,Thread Group 1-38,text,true,,766,250,32,32,https://restful-booker.herokuapp.com/auth,1396,0,1040
+1753979204646,347,GET Booking After Upadting,200,OK,Thread Group 1-25,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/2967,347,0,0
+1753979204660,336,Update Booking,200,OK,Thread Group 1-29,text,true,,908,517,33,33,https://restful-booker.herokuapp.com/booking/2973,336,0,0
+1753979204672,329,Create Booking,200,OK,Thread Group 1-36,text,true,,937,465,33,33,https://restful-booker.herokuapp.com/booking,329,0,0
+1753979204714,334,GET Booking After Upadting,200,OK,Thread Group 1-26,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/2969,334,0,0
+1753979204739,335,GET Booking,200,OK,Thread Group 1-33,text,true,,908,168,33,33,https://restful-booker.herokuapp.com/booking/2981,335,0,0
+1753979204729,345,Partial Upadate Booking,200,OK,Thread Group 1-22,text,true,,910,333,33,33,https://restful-booker.herokuapp.com/booking/2963,345,0,0
+1753979203683,1405,Create Token for Authentication,200,OK,Thread Group 1-39,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1405,0,1057
+1753979204786,339,Update Booking,200,OK,Thread Group 1-30,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/2976,339,0,0
+1753979203783,1350,Create Token for Authentication,200,OK,Thread Group 1-40,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1350,0,1002
+1753979204815,353,Partial Upadate Booking,200,OK,Thread Group 1-23,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/2964,353,0,0
+1753979204821,352,GET Booking,200,OK,Thread Group 1-34,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/2982,352,0,0
+1753979204840,336,Partial Upadate Booking,200,OK,Thread Group 1-24,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/2965,336,0,0
+1753979204848,339,Create Booking,200,OK,Thread Group 1-37,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,339,0,0
+1753979204853,338,Delete Booking,201,Created,Thread Group 1-21,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2960,338,0,0
+1753979204858,339,GET Booking After Upadting,200,OK,Thread Group 1-27,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2971,339,0,0
+1753979204877,353,Update Booking,200,OK,Thread Group 1-31,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/2977,353,0,0
+1753979204889,357,Delete Booking,201,Created,Thread Group 1-20,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/2959,357,0,0
+1753979203882,1386,Create Token for Authentication,200,OK,Thread Group 1-41,text,true,,766,250,33,33,https://restful-booker.herokuapp.com/auth,1386,0,1046
+1753979204949,336,GET Booking,200,OK,Thread Group 1-35,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/2985,336,0,0
+1753979204945,344,Update Booking,200,OK,Thread Group 1-32,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/2979,344,0,0
+1753979204955,341,GET Booking After Upadting,200,OK,Thread Group 1-28,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2972,341,0,0
+1753979205002,335,GET Booking,200,OK,Thread Group 1-36,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/2986,335,0,0
+1753979204993,346,Partial Upadate Booking,200,OK,Thread Group 1-25,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/2967,346,0,0
+1753979204980,359,Create Booking,200,OK,Thread Group 1-38,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,359,0,0
+1753979204996,348,GET Booking After Upadting,200,OK,Thread Group 1-29,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2973,348,0,0
+1753979205048,336,Partial Upadate Booking,200,OK,Thread Group 1-26,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/2969,336,0,0
+1753979203982,1408,Create Token for Authentication,200,OK,Thread Group 1-42,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1408,0,1052
+1753979205075,346,Update Booking,200,OK,Thread Group 1-33,text,true,,908,517,35,35,https://restful-booker.herokuapp.com/booking/2981,346,0,0
+1753979205075,348,Delete Booking,201,Created,Thread Group 1-22,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2963,348,0,0
+1753979205089,348,Create Booking,200,OK,Thread Group 1-39,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,348,0,0
+1753979205126,340,GET Booking After Upadting,200,OK,Thread Group 1-30,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2976,340,0,0
+1753979205134,356,Create Booking,200,OK,Thread Group 1-40,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,356,0,0
+1753979205176,336,Delete Booking,201,Created,Thread Group 1-24,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2965,336,0,0
+1753979204082,1438,Create Token for Authentication,200,OK,Thread Group 1-43,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1438,0,1085
+1753979205168,356,Delete Booking,201,Created,Thread Group 1-23,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/2964,356,0,0
+1753979205174,357,Update Booking,200,OK,Thread Group 1-34,text,true,,908,517,33,33,https://restful-booker.herokuapp.com/booking/2982,357,0,0
+1753979205188,350,GET Booking,200,OK,Thread Group 1-37,text,true,,908,168,33,33,https://restful-booker.herokuapp.com/booking/2989,350,0,0
+1753979205197,349,Partial Upadate Booking,200,OK,Thread Group 1-27,text,true,,910,333,33,33,https://restful-booker.herokuapp.com/booking/2971,349,0,0
+1753979205230,357,GET Booking After Upadting,200,OK,Thread Group 1-31,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2977,357,0,0
+1753979204184,1415,Create Token for Authentication,200,OK,Thread Group 1-44,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1415,0,1061
+1753979205269,352,Create Booking,200,OK,Thread Group 1-41,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,352,0,0
+1753979205286,347,Update Booking,200,OK,Thread Group 1-35,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/2985,347,0,0
+1753979205290,352,GET Booking After Upadting,200,OK,Thread Group 1-32,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2979,352,0,0
+1753979205296,355,Partial Upadate Booking,200,OK,Thread Group 1-28,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/2972,355,0,0
+1753979205337,338,Update Booking,200,OK,Thread Group 1-36,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/2986,338,0,0
+1753979205339,359,GET Booking,200,OK,Thread Group 1-38,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/2990,359,0,0
+1753979205345,358,Partial Upadate Booking,200,OK,Thread Group 1-29,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/2973,358,0,0
+1753979205385,342,Delete Booking,201,Created,Thread Group 1-26,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2969,342,0,0
+1753979204284,1448,Create Token for Authentication,200,OK,Thread Group 1-45,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1448,0,1084
+1753979205390,355,Create Booking,200,OK,Thread Group 1-42,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,355,0,0
+1753979205422,343,GET Booking After Upadting,200,OK,Thread Group 1-33,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2981,343,0,0
+1753979204384,1401,Create Token for Authentication,200,OK,Thread Group 1-46,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1401,0,1043
+1753979205437,363,GET Booking,200,OK,Thread Group 1-39,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/2993,363,0,0
+1753979205466,355,Partial Upadate Booking,200,OK,Thread Group 1-30,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/2976,355,0,0
+1753979205491,359,GET Booking,200,OK,Thread Group 1-40,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/2994,359,0,0
+1753979204483,1407,Create Token for Authentication,200,OK,Thread Group 1-47,text,true,,766,250,36,36,https://restful-booker.herokuapp.com/auth,1406,0,1043
+1753979205521,369,Create Booking,200,OK,Thread Group 1-43,text,true,,937,465,36,36,https://restful-booker.herokuapp.com/booking,368,0,0
+1753979205532,364,GET Booking After Upadting,200,OK,Thread Group 1-34,text,true,,908,155,36,36,https://restful-booker.herokuapp.com/booking/2982,364,0,0
+1753979205539,357,Update Booking,200,OK,Thread Group 1-37,text,true,,908,517,36,36,https://restful-booker.herokuapp.com/booking/2989,357,0,0
+1753979205546,356,Delete Booking,201,Created,Thread Group 1-27,text,true,,743,281,36,36,https://restful-booker.herokuapp.com/booking/2971,356,0,0
+1753979205588,368,Partial Upadate Booking,200,OK,Thread Group 1-31,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2977,368,0,0
+1753979205601,360,Create Booking,200,OK,Thread Group 1-44,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,360,0,0
+1753979204584,1382,Create Token for Authentication,200,OK,Thread Group 1-48,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1382,0,1030
+1753979205622,358,GET Booking,200,OK,Thread Group 1-41,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2996,358,0,0
+1753979205633,356,GET Booking After Upadting,200,OK,Thread Group 1-35,text,true,,912,155,36,36,https://restful-booker.herokuapp.com/booking/2985,356,0,0
+1753979205642,368,Partial Upadate Booking,200,OK,Thread Group 1-32,text,true,,914,333,36,36,https://restful-booker.herokuapp.com/booking/2979,368,0,0
+1753979205652,360,Delete Booking,201,Created,Thread Group 1-28,text,true,,747,281,36,36,https://restful-booker.herokuapp.com/booking/2972,360,0,0
+1753979205676,342,GET Booking After Upadting,200,OK,Thread Group 1-36,text,true,,912,155,35,35,https://restful-booker.herokuapp.com/booking/2986,342,0,0
+1753979205698,356,Update Booking,200,OK,Thread Group 1-38,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2990,356,0,0
+1753979205704,357,Delete Booking,201,Created,Thread Group 1-29,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2973,357,0,0
+1753979204682,1390,Create Token for Authentication,200,OK,Thread Group 1-49,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1390,0,1038
+1753979205732,362,Create Booking,200,OK,Thread Group 1-45,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,362,0,0
+1753979205746,351,GET Booking,200,OK,Thread Group 1-42,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2998,351,0,0
+1753979205765,352,Partial Upadate Booking,200,OK,Thread Group 1-33,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2981,352,0,0
+1753979205786,368,Create Booking,200,OK,Thread Group 1-46,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,368,0,0
+1753979205801,359,Update Booking,200,OK,Thread Group 1-39,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2993,359,0,0
+1753979204783,1385,Create Token for Authentication,200,OK,Thread Group 1-50,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1385,0,1038
+1753979205822,349,Delete Booking,201,Created,Thread Group 1-30,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2976,349,0,0
+1753979205851,359,Update Booking,200,OK,Thread Group 1-40,text,true,,912,517,35,35,https://restful-booker.herokuapp.com/booking/2994,359,0,0
+1753979205891,349,Create Booking,200,OK,Thread Group 1-47,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,349,0,0
+1753979205897,347,GET Booking After Upadting,200,OK,Thread Group 1-37,text,true,,912,155,35,35,https://restful-booker.herokuapp.com/booking/2989,347,0,0
+1753979204883,1362,Create Token for Authentication,200,OK,Thread Group 1-51,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1362,0,1013
+1753979205891,357,GET Booking,200,OK,Thread Group 1-43,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/2999,357,0,0
+1753979205897,364,Partial Upadate Booking,200,OK,Thread Group 1-34,text,true,,914,333,35,35,https://restful-booker.herokuapp.com/booking/2982,364,0,0
+1753979205339,958,Delete Booking,201,Created,Thread Group 1-25,text,true,,743,281,36,36,https://restful-booker.herokuapp.com/booking/2967,958,0,0
+1753979205967,335,Create Booking,200,OK,Thread Group 1-48,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,335,0,0
+1753979205961,345,GET Booking,200,OK,Thread Group 1-44,text,true,,912,168,35,35,https://restful-booker.herokuapp.com/booking/3002,345,0,0
+1753979205957,358,Delete Booking,201,Created,Thread Group 1-31,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2977,358,0,0
+1753979205981,337,Update Booking,200,OK,Thread Group 1-41,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/2996,337,0,0
+1753979205990,329,Partial Upadate Booking,200,OK,Thread Group 1-35,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2985,329,0,0
+1753979206010,346,Delete Booking,201,Created,Thread Group 1-32,text,true,,747,281,34,34,https://restful-booker.herokuapp.com/booking/2979,346,0,0
+1753979204983,1373,Create Token for Authentication,200,OK,Thread Group 1-52,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1373,0,1049
+1753979206019,350,Partial Upadate Booking,200,OK,Thread Group 1-36,text,true,,914,333,33,33,https://restful-booker.herokuapp.com/booking/2986,350,0,0
+1753979206055,347,GET Booking After Upadting,200,OK,Thread Group 1-38,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2990,347,0,0
+1753979206073,335,Create Booking,200,OK,Thread Group 1-49,text,true,,941,465,34,34,https://restful-booker.herokuapp.com/booking,335,0,0
+1753979205083,1385,Create Token for Authentication,200,OK,Thread Group 1-53,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1385,0,1019
+1753979206097,374,Update Booking,200,OK,Thread Group 1-42,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/2998,374,0,0
+1753979206118,354,Delete Booking,201,Created,Thread Group 1-33,text,true,,747,281,34,34,https://restful-booker.herokuapp.com/booking/2981,354,0,0
+1753979206095,379,GET Booking,200,OK,Thread Group 1-45,text,true,,912,168,33,33,https://restful-booker.herokuapp.com/booking/3004,379,0,0
+1753979206169,313,Create Booking,200,OK,Thread Group 1-50,text,true,,941,465,33,33,https://restful-booker.herokuapp.com/booking,313,0,0
+1753979206160,325,GET Booking After Upadting,200,OK,Thread Group 1-39,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2993,325,0,0
+1753979206155,333,GET Booking,200,OK,Thread Group 1-46,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/3006,333,0,0
+1753979206210,329,GET Booking After Upadting,200,OK,Thread Group 1-40,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2994,329,0,0
+1753979206241,317,GET Booking,200,OK,Thread Group 1-47,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/3008,317,0,0
+1753979206244,329,Partial Upadate Booking,200,OK,Thread Group 1-37,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2989,329,0,0
+1753979206248,333,Update Booking,200,OK,Thread Group 1-43,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/2999,333,0,0
+1753979205183,1400,Create Token for Authentication,200,OK,Thread Group 1-54,text,true,,770,250,35,35,https://restful-booker.herokuapp.com/auth,1400,0,1056
+1753979206246,345,Create Booking,200,OK,Thread Group 1-51,text,true,,941,465,35,35,https://restful-booker.herokuapp.com/booking,345,0,0
+1753979206261,339,Delete Booking,201,Created,Thread Group 1-34,text,true,,747,281,35,35,https://restful-booker.herokuapp.com/booking/2982,339,0,0
+1753979206303,310,GET Booking,200,OK,Thread Group 1-48,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/3009,310,0,0
+1753979206307,320,Update Booking,200,OK,Thread Group 1-44,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/3002,319,0,0
+1753979206318,317,GET Booking After Upadting,200,OK,Thread Group 1-41,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2996,317,0,0
+1753979206319,317,Delete Booking,201,Created,Thread Group 1-35,text,true,,747,281,34,34,https://restful-booker.herokuapp.com/booking/2985,317,0,0
+1753979206357,305,Create Booking,200,OK,Thread Group 1-52,text,true,,941,465,33,33,https://restful-booker.herokuapp.com/booking,305,0,0
+1753979205282,1426,Create Token for Authentication,200,OK,Thread Group 1-55,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1426,0,1075
+1753979206369,342,Delete Booking,201,Created,Thread Group 1-36,text,true,,747,281,34,34,https://restful-booker.herokuapp.com/booking/2986,342,0,0
+1753979206409,330,GET Booking,200,OK,Thread Group 1-49,text,true,,912,168,33,33,https://restful-booker.herokuapp.com/booking/3010,330,0,0
+1753979205383,1365,Create Token for Authentication,200,OK,Thread Group 1-56,text,true,,770,250,33,33,https://restful-booker.herokuapp.com/auth,1365,0,1024
+1753979206402,350,Partial Upadate Booking,200,OK,Thread Group 1-38,text,true,,914,333,33,33,https://restful-booker.herokuapp.com/booking/2990,350,0,0
+1753979205482,1317,Create Token for Authentication,200,OK,Thread Group 1-57,text,true,,770,250,34,34,https://restful-booker.herokuapp.com/auth,1317,0,1011
+1753979206482,321,GET Booking,200,OK,Thread Group 1-50,text,true,,912,168,34,34,https://restful-booker.herokuapp.com/booking/3013,321,0,0
+1753979206469,341,Create Booking,200,OK,Thread Group 1-53,text,true,,941,465,34,34,https://restful-booker.herokuapp.com/booking,341,0,0
+1753979206485,326,Partial Upadate Booking,200,OK,Thread Group 1-39,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2993,326,0,0
+1753979206471,350,GET Booking After Upadting,200,OK,Thread Group 1-42,text,true,,912,155,34,34,https://restful-booker.herokuapp.com/booking/2998,350,0,0
+1753979206488,343,Update Booking,200,OK,Thread Group 1-46,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/3006,343,0,0
+1753979206475,362,Update Booking,200,OK,Thread Group 1-45,text,true,,912,517,34,34,https://restful-booker.herokuapp.com/booking/3004,362,0,0
+1753979206558,316,Update Booking,200,OK,Thread Group 1-47,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3008,316,0,0
+1753979206540,335,Partial Upadate Booking,200,OK,Thread Group 1-40,text,true,,914,333,34,34,https://restful-booker.herokuapp.com/booking/2994,335,0,0
+1753979206573,311,Delete Booking,201,Created,Thread Group 1-37,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2989,311,0,0
+1753979206582,333,GET Booking After Upadting,200,OK,Thread Group 1-43,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/2999,333,0,0
+1753979206614,308,Update Booking,200,OK,Thread Group 1-48,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3009,308,0,0
+1753979206584,355,Create Booking,200,OK,Thread Group 1-54,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,355,0,0
+1753979206627,315,GET Booking After Upadting,200,OK,Thread Group 1-44,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3002,315,0,0
+1753979206592,353,GET Booking,200,OK,Thread Group 1-51,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3014,353,0,0
+1753979206635,312,Partial Upadate Booking,200,OK,Thread Group 1-41,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/2996,312,0,0
+1753979205584,1371,Create Token for Authentication,200,OK,Thread Group 1-58,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1371,0,1027
+1753979206663,310,GET Booking,200,OK,Thread Group 1-52,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3017,310,0,0
+1753979206708,343,Create Booking,200,OK,Thread Group 1-55,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,343,0,0
+1753979205682,1372,Create Token for Authentication,200,OK,Thread Group 1-59,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1372,0,1034
+1753979206740,338,Update Booking,200,OK,Thread Group 1-49,text,true,,908,517,35,35,https://restful-booker.herokuapp.com/booking/3010,338,0,0
+1753979206749,342,Create Booking,200,OK,Thread Group 1-56,text,true,,937,465,36,36,https://restful-booker.herokuapp.com/booking,342,0,0
+1753979206753,343,Delete Booking,201,Created,Thread Group 1-38,text,true,,743,281,36,36,https://restful-booker.herokuapp.com/booking/2990,343,0,0
+1753979206800,312,Create Booking,200,OK,Thread Group 1-57,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,312,0,0
+1753979206804,314,Update Booking,200,OK,Thread Group 1-50,text,true,,908,517,35,35,https://restful-booker.herokuapp.com/booking/3013,314,0,0
+1753979206811,323,Delete Booking,201,Created,Thread Group 1-39,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2993,323,0,0
+1753979206811,341,GET Booking,200,OK,Thread Group 1-53,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3018,341,0,0
+1753979205782,1371,Create Token for Authentication,200,OK,Thread Group 1-60,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1371,0,1032
+1753979206822,344,Partial Upadate Booking,200,OK,Thread Group 1-42,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/2998,344,0,0
+1753979206831,339,GET Booking After Upadting,200,OK,Thread Group 1-46,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3006,339,0,0
+1753979206837,353,GET Booking After Upadting,200,OK,Thread Group 1-45,text,true,,908,155,35,35,https://restful-booker.herokuapp.com/booking/3004,353,0,0
+1753979206875,320,GET Booking After Upadting,200,OK,Thread Group 1-47,text,true,,908,155,35,35,https://restful-booker.herokuapp.com/booking/3008,320,0,0
+1753979206876,337,Delete Booking,201,Created,Thread Group 1-40,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2994,337,0,0
+1753979206922,320,GET Booking After Upadting,200,OK,Thread Group 1-48,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3009,320,0,0
+1753979206915,333,Partial Upadate Booking,200,OK,Thread Group 1-43,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/2999,333,0,0
+1753979205885,1365,Create Token for Authentication,200,OK,Thread Group 1-61,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1365,0,1027
+1753979206943,334,Partial Upadate Booking,200,OK,Thread Group 1-44,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/3002,334,0,0
+1753979206940,344,GET Booking,200,OK,Thread Group 1-54,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/3021,344,0,0
+1753979206947,339,Delete Booking,201,Created,Thread Group 1-41,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/2996,339,0,0
+1753979206945,343,Update Booking,200,OK,Thread Group 1-51,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3014,343,0,0
+1753979206973,320,Update Booking,200,OK,Thread Group 1-52,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3017,320,0,0
+1753979206956,339,Create Booking,200,OK,Thread Group 1-58,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,339,0,0
+1753979205984,1382,Create Token for Authentication,200,OK,Thread Group 1-62,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1382,0,1035
+1753979207055,344,Create Booking,200,OK,Thread Group 1-59,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,344,0,0
+1753979207052,354,GET Booking,200,OK,Thread Group 1-55,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/3022,354,0,0
+1753979207078,336,GET Booking After Upadting,200,OK,Thread Group 1-49,text,true,,908,155,35,35,https://restful-booker.herokuapp.com/booking/3010,336,0,0
+1753979207091,345,GET Booking,200,OK,Thread Group 1-56,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/3023,345,0,0
+1753979207114,327,GET Booking,200,OK,Thread Group 1-57,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/3024,327,0,0
+1753979207119,328,GET Booking After Upadting,200,OK,Thread Group 1-50,text,true,,908,155,35,35,https://restful-booker.herokuapp.com/booking/3013,328,0,0
+1753979206083,1371,Create Token for Authentication,200,OK,Thread Group 1-63,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1371,0,1026
+1753979207153,343,Create Booking,200,OK,Thread Group 1-60,text,true,,937,465,36,36,https://restful-booker.herokuapp.com/booking,343,0,0
+1753979207152,348,Update Booking,200,OK,Thread Group 1-53,text,true,,908,517,36,36,https://restful-booker.herokuapp.com/booking/3018,348,0,0
+1753979206185,1318,Create Token for Authentication,200,OK,Thread Group 1-64,text,true,,766,250,36,36,https://restful-booker.herokuapp.com/auth,1318,0,978
+1753979207170,355,Partial Upadate Booking,200,OK,Thread Group 1-46,text,true,,910,333,36,36,https://restful-booker.herokuapp.com/booking/3006,355,0,0
+1753979207167,359,Delete Booking,201,Created,Thread Group 1-42,text,true,,743,281,36,36,https://restful-booker.herokuapp.com/booking/2998,359,0,0
+1753979207195,336,Partial Upadate Booking,200,OK,Thread Group 1-47,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/3008,336,0,0
+1753979207190,357,Partial Upadate Booking,200,OK,Thread Group 1-45,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/3004,357,0,0
+1753979207243,330,Partial Upadate Booking,200,OK,Thread Group 1-48,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/3009,330,0,0
+1753979207249,340,Delete Booking,201,Created,Thread Group 1-43,text,true,,743,281,36,36,https://restful-booker.herokuapp.com/booking/2999,340,0,0
+1753979207251,349,Create Booking,200,OK,Thread Group 1-61,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,349,0,0
+1753979207277,341,Delete Booking,201,Created,Thread Group 1-44,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/3002,341,0,0
+1753979207294,331,GET Booking After Upadting,200,OK,Thread Group 1-52,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3017,331,0,0
+1753979207284,346,Update Booking,200,OK,Thread Group 1-54,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3021,346,0,0
+1753979207288,353,GET Booking After Upadting,200,OK,Thread Group 1-51,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3014,353,0,0
+1753979207295,350,GET Booking,200,OK,Thread Group 1-58,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3027,350,0,0
+1753979206282,1390,Create Token for Authentication,200,OK,Thread Group 1-65,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1390,0,1041
+1753979206383,1324,Create Token for Authentication,200,OK,Thread Group 1-66,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1324,0,985
+1753979207367,356,Create Booking,200,OK,Thread Group 1-62,text,true,,937,465,35,35,https://restful-booker.herokuapp.com/booking,356,0,0
+1753979207406,350,Update Booking,200,OK,Thread Group 1-55,text,true,,908,517,35,35,https://restful-booker.herokuapp.com/booking/3022,350,0,0
+1753979207401,358,GET Booking,200,OK,Thread Group 1-59,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/3029,358,0,0
+1753979207414,345,Partial Upadate Booking,200,OK,Thread Group 1-49,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/3010,345,0,0
+1753979206483,1276,Create Token for Authentication,200,OK,Thread Group 1-67,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1276,0,938
+1753979207441,348,Update Booking,200,OK,Thread Group 1-57,text,true,,908,517,36,36,https://restful-booker.herokuapp.com/booking/3024,348,0,0
+1753979207437,354,Update Booking,200,OK,Thread Group 1-56,text,true,,908,517,36,36,https://restful-booker.herokuapp.com/booking/3023,354,0,0
+1753979207447,356,Partial Upadate Booking,200,OK,Thread Group 1-50,text,true,,910,333,36,36,https://restful-booker.herokuapp.com/booking/3013,356,0,0
+1753979207455,363,Create Booking,200,OK,Thread Group 1-63,text,true,,937,465,36,36,https://restful-booker.herokuapp.com/booking,363,0,0
+1753979207497,337,GET Booking,200,OK,Thread Group 1-60,text,true,,908,168,36,36,https://restful-booker.herokuapp.com/booking/3032,337,0,0
+1753979207503,341,Create Booking,200,OK,Thread Group 1-64,text,true,,937,465,36,36,https://restful-booker.herokuapp.com/booking,341,0,0
+1753979207501,353,GET Booking After Upadting,200,OK,Thread Group 1-53,text,true,,908,155,36,36,https://restful-booker.herokuapp.com/booking/3018,353,0,0
+1753979206583,1285,Create Token for Authentication,200,OK,Thread Group 1-68,text,true,,766,250,36,36,https://restful-booker.herokuapp.com/auth,1285,0,946
+1753979207525,359,Delete Booking,201,Created,Thread Group 1-46,text,true,,743,281,37,37,https://restful-booker.herokuapp.com/booking/3006,359,0,0
+1753979207548,340,Delete Booking,201,Created,Thread Group 1-45,text,true,,751,281,36,36,https://restful-booker.herokuapp.com/booking/3004,340,0,0
+1753979207531,357,Delete Booking,201,Created,Thread Group 1-47,text,true,,743,281,36,36,https://restful-booker.herokuapp.com/booking/3008,357,0,0
+1753979207573,344,Delete Booking,201,Created,Thread Group 1-48,text,true,,751,281,34,34,https://restful-booker.herokuapp.com/booking/3009,344,0,0
+1753979207631,321,GET Booking After Upadting,200,OK,Thread Group 1-54,text,true,,916,155,33,33,https://restful-booker.herokuapp.com/booking/3021,321,0,0
+1753979207601,353,GET Booking,200,OK,Thread Group 1-61,text,true,,916,168,33,33,https://restful-booker.herokuapp.com/booking/3033,353,0,0
+1753979207626,347,Partial Upadate Booking,200,OK,Thread Group 1-52,text,true,,918,333,33,33,https://restful-booker.herokuapp.com/booking/3017,347,0,0
+1753979207642,356,Partial Upadate Booking,200,OK,Thread Group 1-51,text,true,,918,333,34,34,https://restful-booker.herokuapp.com/booking/3014,356,0,0
+1753979207646,352,Update Booking,200,OK,Thread Group 1-58,text,true,,916,517,34,34,https://restful-booker.herokuapp.com/booking/3027,352,0,0
+1753979207673,324,Create Booking,200,OK,Thread Group 1-65,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,324,0,0
+1753979206683,1331,Create Token for Authentication,200,OK,Thread Group 1-69,text,true,,774,250,34,34,https://restful-booker.herokuapp.com/auth,1331,0,1016
+1753979207708,336,Create Booking,200,OK,Thread Group 1-66,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,336,0,0
+1753979207757,322,GET Booking After Upadting,200,OK,Thread Group 1-55,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3022,322,0,0
+1753979207724,356,GET Booking,200,OK,Thread Group 1-62,text,true,,916,168,34,34,https://restful-booker.herokuapp.com/booking/3036,356,0,0
+1753979207760,341,Delete Booking,201,Created,Thread Group 1-49,text,true,,751,281,35,35,https://restful-booker.herokuapp.com/booking/3010,341,0,0
+1753979207760,345,Create Booking,200,OK,Thread Group 1-67,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,345,0,0
+1753979207760,352,Update Booking,200,OK,Thread Group 1-59,text,true,,916,517,34,34,https://restful-booker.herokuapp.com/booking/3029,352,0,0
+1753979207789,349,GET Booking After Upadting,200,OK,Thread Group 1-57,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3024,349,0,0
+1753979207791,350,GET Booking After Upadting,200,OK,Thread Group 1-56,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3023,350,0,0
+1753979207834,308,Update Booking,200,OK,Thread Group 1-60,text,true,,916,517,34,34,https://restful-booker.herokuapp.com/booking/3032,308,0,0
+1753979207803,350,Delete Booking,201,Created,Thread Group 1-50,text,true,,751,281,34,34,https://restful-booker.herokuapp.com/booking/3013,350,0,0
+1753979206783,1388,Create Token for Authentication,200,OK,Thread Group 1-70,text,true,,774,250,33,33,https://restful-booker.herokuapp.com/auth,1388,0,1036
+1753979207819,354,GET Booking,200,OK,Thread Group 1-63,text,true,,916,168,33,33,https://restful-booker.herokuapp.com/booking/3037,354,0,0
+1753979207845,334,GET Booking,200,OK,Thread Group 1-64,text,true,,916,168,33,33,https://restful-booker.herokuapp.com/booking/3038,334,0,0
+1753979207854,347,Partial Upadate Booking,200,OK,Thread Group 1-53,text,true,,918,333,34,34,https://restful-booker.herokuapp.com/booking/3018,347,0,0
+1753979207868,348,Create Booking,200,OK,Thread Group 1-68,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,348,0,0
+1753979207953,318,Partial Upadate Booking,200,OK,Thread Group 1-54,text,true,,918,333,34,34,https://restful-booker.herokuapp.com/booking/3021,318,0,0
+1753979206884,1400,Create Token for Authentication,200,OK,Thread Group 1-71,text,true,,774,250,35,35,https://restful-booker.herokuapp.com/auth,1400,0,1058
+1753979207954,343,Update Booking,200,OK,Thread Group 1-61,text,true,,916,517,35,35,https://restful-booker.herokuapp.com/booking/3033,343,0,0
+1753979206981,1316,Create Token for Authentication,200,OK,Thread Group 1-72,text,true,,774,250,35,35,https://restful-booker.herokuapp.com/auth,1316,0,1007
+1753979207998,316,GET Booking,200,OK,Thread Group 1-65,text,true,,916,168,35,35,https://restful-booker.herokuapp.com/booking/3040,316,0,0
+1753979207973,352,Delete Booking,201,Created,Thread Group 1-52,text,true,,751,281,35,35,https://restful-booker.herokuapp.com/booking/3017,352,0,0
+1753979208015,310,Create Booking,200,OK,Thread Group 1-69,text,true,,945,465,35,35,https://restful-booker.herokuapp.com/booking,310,0,0
+1753979207998,330,GET Booking After Upadting,200,OK,Thread Group 1-58,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3027,330,0,0
+1753979207998,333,Delete Booking,201,Created,Thread Group 1-51,text,true,,751,281,34,34,https://restful-booker.herokuapp.com/booking/3014,333,0,0
+1753979208045,322,GET Booking,200,OK,Thread Group 1-66,text,true,,916,168,33,33,https://restful-booker.herokuapp.com/booking/3042,322,0,0
+1753979208079,327,Partial Upadate Booking,200,OK,Thread Group 1-55,text,true,,918,333,34,34,https://restful-booker.herokuapp.com/booking/3022,327,0,0
+1753979208080,329,Update Booking,200,OK,Thread Group 1-62,text,true,,916,517,34,34,https://restful-booker.herokuapp.com/booking/3036,329,0,0
+1753979208112,317,GET Booking After Upadting,200,OK,Thread Group 1-59,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3029,317,0,0
+1753979207081,1363,Create Token for Authentication,200,OK,Thread Group 1-73,text,true,,774,250,34,34,https://restful-booker.herokuapp.com/auth,1363,0,1050
+1753979208107,346,GET Booking,200,OK,Thread Group 1-67,text,true,,916,168,34,34,https://restful-booker.herokuapp.com/booking/3043,346,0,0
+1753979208141,318,Partial Upadate Booking,200,OK,Thread Group 1-56,text,true,,918,333,34,34,https://restful-booker.herokuapp.com/booking/3023,318,0,0
+1753979208142,318,GET Booking After Upadting,200,OK,Thread Group 1-60,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3032,318,0,0
+1753979207182,1294,Create Token for Authentication,200,OK,Thread Group 1-74,text,true,,774,250,34,34,https://restful-booker.herokuapp.com/auth,1294,0,978
+1753979208171,311,Create Booking,200,OK,Thread Group 1-70,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,311,0,0
+1753979208174,311,Update Booking,200,OK,Thread Group 1-63,text,true,,916,517,35,35,https://restful-booker.herokuapp.com/booking/3037,311,0,0
+1753979208138,349,Partial Upadate Booking,200,OK,Thread Group 1-57,text,true,,918,333,35,35,https://restful-booker.herokuapp.com/booking/3024,349,0,0
+1753979208179,321,Update Booking,200,OK,Thread Group 1-64,text,true,,916,517,35,35,https://restful-booker.herokuapp.com/booking/3038,321,0,0
+1753979208201,313,Delete Booking,201,Created,Thread Group 1-53,text,true,,751,281,35,35,https://restful-booker.herokuapp.com/booking/3018,313,0,0
+1753979208217,345,GET Booking,200,OK,Thread Group 1-68,text,true,,916,168,34,34,https://restful-booker.herokuapp.com/booking/3045,345,0,0
+1753979208272,329,Delete Booking,201,Created,Thread Group 1-54,text,true,,751,281,35,35,https://restful-booker.herokuapp.com/booking/3021,329,0,0
+1753979208285,316,Create Booking,200,OK,Thread Group 1-71,text,true,,945,465,35,35,https://restful-booker.herokuapp.com/booking,316,0,0
+1753979208297,309,GET Booking After Upadting,200,OK,Thread Group 1-61,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3033,309,0,0
+1753979208298,329,Create Booking,200,OK,Thread Group 1-72,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,329,0,0
+1753979207281,1358,Create Token for Authentication,200,OK,Thread Group 1-75,text,true,,774,250,34,34,https://restful-booker.herokuapp.com/auth,1358,0,1014
+1753979208329,312,Partial Upadate Booking,200,OK,Thread Group 1-58,text,true,,918,333,34,34,https://restful-booker.herokuapp.com/booking/3027,312,0,0
+1753979208314,335,Update Booking,200,OK,Thread Group 1-65,text,true,,916,517,34,34,https://restful-booker.herokuapp.com/booking/3040,335,0,0
+1753979208326,326,GET Booking,200,OK,Thread Group 1-69,text,true,,916,168,34,34,https://restful-booker.herokuapp.com/booking/3048,326,0,0
+1753979208367,316,Update Booking,200,OK,Thread Group 1-66,text,true,,916,517,35,35,https://restful-booker.herokuapp.com/booking/3042,316,0,0
+1753979207382,1304,Create Token for Authentication,200,OK,Thread Group 1-76,text,true,,774,250,35,35,https://restful-booker.herokuapp.com/auth,1303,0,972
+1753979208409,330,GET Booking After Upadting,200,OK,Thread Group 1-62,text,true,,916,155,35,35,https://restful-booker.herokuapp.com/booking/3036,330,0,0
+1753979208406,341,Delete Booking,201,Created,Thread Group 1-55,text,true,,751,281,35,35,https://restful-booker.herokuapp.com/booking/3022,341,0,0
+1753979208430,318,Partial Upadate Booking,200,OK,Thread Group 1-59,text,true,,918,333,35,35,https://restful-booker.herokuapp.com/booking/3029,317,0,0
+1753979208445,321,Create Booking,200,OK,Thread Group 1-73,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,321,0,0
+1753979207482,1290,Create Token for Authentication,200,OK,Thread Group 1-77,text,true,,774,250,34,34,https://restful-booker.herokuapp.com/auth,1290,0,957
+1753979208460,324,Delete Booking,201,Created,Thread Group 1-56,text,true,,751,281,35,35,https://restful-booker.herokuapp.com/booking/3023,324,0,0
+1753979208460,339,Partial Upadate Booking,200,OK,Thread Group 1-60,text,true,,918,333,34,34,https://restful-booker.herokuapp.com/booking/3032,339,0,0
+1753979208453,348,Update Booking,200,OK,Thread Group 1-67,text,true,,916,517,34,34,https://restful-booker.herokuapp.com/booking/3043,348,0,0
+1753979208483,324,GET Booking,200,OK,Thread Group 1-70,text,true,,916,168,34,34,https://restful-booker.herokuapp.com/booking/3051,324,0,0
+1753979208486,324,GET Booking After Upadting,200,OK,Thread Group 1-63,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3037,324,0,0
+1753979208477,333,Create Booking,200,OK,Thread Group 1-74,text,true,,945,465,34,34,https://restful-booker.herokuapp.com/booking,333,0,0
+1753979208501,321,GET Booking After Upadting,200,OK,Thread Group 1-64,text,true,,916,155,34,34,https://restful-booker.herokuapp.com/booking/3038,320,0,0
+1753979208487,353,Delete Booking,201,Created,Thread Group 1-57,text,true,,751,281,34,34,https://restful-booker.herokuapp.com/booking/3024,353,0,0
+1753979208562,353,Update Booking,200,OK,Thread Group 1-68,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3045,353,0,0
+1753979208606,332,Partial Upadate Booking,200,OK,Thread Group 1-61,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/3033,332,0,0
+1753979208601,339,GET Booking,200,OK,Thread Group 1-71,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3052,339,0,0
+1753979208628,343,GET Booking,200,OK,Thread Group 1-72,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3053,343,0,0
+1753979208642,330,Delete Booking,201,Created,Thread Group 1-58,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/3027,330,0,0
+1753979207582,1399,Create Token for Authentication,200,OK,Thread Group 1-78,text,true,,766,250,33,33,https://restful-booker.herokuapp.com/auth,1399,0,1047
+1753979207682,1305,Create Token for Authentication,200,OK,Thread Group 1-79,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1305,0,977
+1753979208639,350,Create Booking,200,OK,Thread Group 1-75,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,350,0,0
+1753979208652,340,Update Booking,200,OK,Thread Group 1-69,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3048,340,0,0
+1753979208649,350,GET Booking After Upadting,200,OK,Thread Group 1-65,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3040,350,0,0
+1753979208684,328,GET Booking After Upadting,200,OK,Thread Group 1-66,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3042,328,0,0
+1753979208686,341,Create Booking,200,OK,Thread Group 1-76,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,341,0,0
+1753979208740,346,Partial Upadate Booking,200,OK,Thread Group 1-62,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/3036,346,0,0
+1753979208748,344,Delete Booking,201,Created,Thread Group 1-59,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/3029,344,0,0
+1753979208772,335,Create Booking,200,OK,Thread Group 1-77,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,335,0,0
+1753979208766,343,GET Booking,200,OK,Thread Group 1-73,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3059,343,0,0
+1753979207782,1329,Create Token for Authentication,200,OK,Thread Group 1-80,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1329,0,987
+1753979208799,340,Delete Booking,201,Created,Thread Group 1-60,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/3032,340,0,0
+1753979208810,337,GET Booking,200,OK,Thread Group 1-74,text,true,,908,168,33,33,https://restful-booker.herokuapp.com/booking/3060,337,0,0
+1753979208801,351,GET Booking After Upadting,200,OK,Thread Group 1-67,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/3043,351,0,0
+1753979208807,345,Update Booking,200,OK,Thread Group 1-70,text,true,,908,517,33,33,https://restful-booker.herokuapp.com/booking/3051,345,0,0
+1753979208822,335,Partial Upadate Booking,200,OK,Thread Group 1-64,text,true,,910,333,33,33,https://restful-booker.herokuapp.com/booking/3038,335,0,0
+1753979208810,349,Partial Upadate Booking,200,OK,Thread Group 1-63,text,true,,910,333,33,33,https://restful-booker.herokuapp.com/booking/3037,349,0,0
+1753979207883,1340,Create Token for Authentication,200,OK,Thread Group 1-81,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1340,0,990
+1753979208915,352,GET Booking After Upadting,200,OK,Thread Group 1-68,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3045,352,0,0
+1753979207981,1294,Create Token for Authentication,200,OK,Thread Group 1-82,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1294,0,961
+1753979208939,354,Delete Booking,201,Created,Thread Group 1-61,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/3033,354,0,0
+1753979208941,356,Update Booking,200,OK,Thread Group 1-71,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3052,355,0,0
+1753979208972,349,Update Booking,200,OK,Thread Group 1-72,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3053,349,0,0
+1753979208988,341,Create Booking,200,OK,Thread Group 1-79,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,341,0,0
+1753979208993,341,GET Booking After Upadting,200,OK,Thread Group 1-69,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3048,341,0,0
+1753979208982,354,Create Booking,200,OK,Thread Group 1-78,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,354,0,0
+1753979208990,349,GET Booking,200,OK,Thread Group 1-75,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3065,349,0,0
+1753979209001,349,Partial Upadate Booking,200,OK,Thread Group 1-65,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/3040,349,0,0
+1753979209013,344,Partial Upadate Booking,200,OK,Thread Group 1-66,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/3042,344,0,0
+1753979209027,339,GET Booking,200,OK,Thread Group 1-76,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3066,339,0,0
+1753979209108,335,GET Booking,200,OK,Thread Group 1-77,text,true,,908,168,35,35,https://restful-booker.herokuapp.com/booking/3067,335,0,0
+1753979209086,359,Delete Booking,201,Created,Thread Group 1-62,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/3036,359,0,0
+1753979208083,1368,Create Token for Authentication,200,OK,Thread Group 1-83,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1367,0,1036
+1753979209112,355,Create Booking,200,OK,Thread Group 1-80,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,355,0,0
+1753979209109,360,Update Booking,200,OK,Thread Group 1-73,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3059,360,0,0
+1753979209147,342,Update Booking,200,OK,Thread Group 1-74,text,true,,908,517,35,35,https://restful-booker.herokuapp.com/booking/3060,342,0,0
+1753979209152,338,Partial Upadate Booking,200,OK,Thread Group 1-67,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/3043,338,0,0
+1753979208182,1309,Create Token for Authentication,200,OK,Thread Group 1-84,text,true,,766,250,35,35,https://restful-booker.herokuapp.com/auth,1309,0,971
+1753979209157,338,Delete Booking,201,Created,Thread Group 1-64,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/3038,338,0,0
+1753979209152,357,GET Booking After Upadting,200,OK,Thread Group 1-70,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3051,357,0,0
+1753979209160,352,Delete Booking,201,Created,Thread Group 1-63,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/3037,352,0,0
+1753979209224,356,Create Booking,200,OK,Thread Group 1-81,text,true,,937,465,33,33,https://restful-booker.herokuapp.com/booking,356,0,0
+1753979209268,328,Partial Upadate Booking,200,OK,Thread Group 1-68,text,true,,910,333,34,34,https://restful-booker.herokuapp.com/booking/3045,328,0,0
+1753979209276,341,Create Booking,200,OK,Thread Group 1-82,text,true,,937,465,34,34,https://restful-booker.herokuapp.com/booking,341,0,0
+1753979208284,1341,Create Token for Authentication,200,OK,Thread Group 1-85,text,true,,766,250,34,34,https://restful-booker.herokuapp.com/auth,1341,0,1006
+1753979209297,360,GET Booking After Upadting,200,OK,Thread Group 1-71,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3052,360,0,0
+1753979209321,337,GET Booking After Upadting,200,OK,Thread Group 1-72,text,true,,908,155,34,34,https://restful-booker.herokuapp.com/booking/3053,337,0,0
+1753979209340,322,Update Booking,200,OK,Thread Group 1-75,text,true,,908,517,34,34,https://restful-booker.herokuapp.com/booking/3065,322,0,0
+1753979209337,337,GET Booking,200,OK,Thread Group 1-78,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3070,337,0,0
+1753979209330,345,GET Booking,200,OK,Thread Group 1-79,text,true,,908,168,34,34,https://restful-booker.herokuapp.com/booking/3071,345,0,0
+1753979209335,350,Partial Upadate Booking,200,OK,Thread Group 1-69,text,true,,910,333,35,35,https://restful-booker.herokuapp.com/booking/3048,350,0,0
+1753979209350,345,Delete Booking,201,Created,Thread Group 1-65,text,true,,743,281,35,35,https://restful-booker.herokuapp.com/booking/3040,345,0,0
+1753979209357,339,Delete Booking,201,Created,Thread Group 1-66,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/3042,339,0,0
+1753979209366,334,Update Booking,200,OK,Thread Group 1-76,text,true,,908,517,33,33,https://restful-booker.herokuapp.com/booking/3066,334,0,0
+1753979208382,1324,Create Token for Authentication,200,OK,Thread Group 1-86,text,true,,766,250,33,33,https://restful-booker.herokuapp.com/auth,1324,0,985
+1753979209451,320,Create Booking,200,OK,Thread Group 1-83,text,true,,937,465,33,33,https://restful-booker.herokuapp.com/booking,320,0,0
+1753979209444,333,Update Booking,200,OK,Thread Group 1-77,text,true,,908,517,33,33,https://restful-booker.herokuapp.com/booking/3067,333,0,0
+1753979209491,326,Delete Booking,201,Created,Thread Group 1-67,text,true,,743,281,34,34,https://restful-booker.herokuapp.com/booking/3043,326,0,0
+1753979209470,352,GET Booking After Upadting,200,OK,Thread Group 1-73,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/3059,352,0,0
+1753979209468,354,GET Booking,200,OK,Thread Group 1-80,text,true,,908,168,33,33,https://restful-booker.herokuapp.com/booking/3073,354,0,0
+1753979209489,334,GET Booking After Upadting,200,OK,Thread Group 1-74,text,true,,908,155,33,33,https://restful-booker.herokuapp.com/booking/3060,334,0,0
+1753979209491,338,Create Booking,200,OK,Thread Group 1-84,text,true,,937,465,33,33,https://restful-booker.herokuapp.com/booking,338,0,0
+1753979208484,1375,Create Token for Authentication,200,OK,Thread Group 1-87,text,true,,766,250,33,33,https://restful-booker.herokuapp.com/auth,1375,0,1025
+1753979209509,354,Partial Upadate Booking,200,OK,Thread Group 1-70,text,true,,910,333,33,33,https://restful-booker.herokuapp.com/booking/3051,354,0,0
+1753979209596,329,Delete Booking,201,Created,Thread Group 1-68,text,true,,747,281,33,33,https://restful-booker.herokuapp.com/booking/3045,329,0,0
+1753979209580,350,GET Booking,200,OK,Thread Group 1-81,text,true,,912,168,32,32,https://restful-booker.herokuapp.com/booking/3076,350,0,0
+1753979209619,336,GET Booking,200,OK,Thread Group 1-82,text,true,,912,168,32,32,https://restful-booker.herokuapp.com/booking/3077,336,0,0
+1753979209626,330,Create Booking,200,OK,Thread Group 1-85,text,true,,941,465,32,32,https://restful-booker.herokuapp.com/booking,330,0,0
+1753979208582,1399,Create Token for Authentication,200,OK,Thread Group 1-88,text,true,,770,250,32,32,https://restful-booker.herokuapp.com/auth,1399,0,1051
+1753979209662,331,GET Booking After Upadting,200,OK,Thread Group 1-75,text,true,,912,155,32,32,https://restful-booker.herokuapp.com/booking/3065,331,0,0
+1753979209659,339,Partial Upadate Booking,200,OK,Thread Group 1-72,text,true,,914,333,32,32,https://restful-booker.herokuapp.com/booking/3053,339,0,0
+1753979209674,334,Update Booking,200,OK,Thread Group 1-78,text,true,,912,517,32,32,https://restful-booker.herokuapp.com/booking/3070,334,0,0
+1753979209657,355,Partial Upadate Booking,200,OK,Thread Group 1-71,text,true,,914,333,32,32,https://restful-booker.herokuapp.com/booking/3052,355,0,0
+1753979209675,339,Update Booking,200,OK,Thread Group 1-79,text,true,,912,517,32,32,https://restful-booker.herokuapp.com/booking/3071,339,0,0
+1753979209686,330,Delete Booking,201,Created,Thread Group 1-69,text,true,,747,281,32,32,https://restful-booker.herokuapp.com/booking/3048,330,0,0
+1753979209700,331,GET Booking After Upadting,200,OK,Thread Group 1-76,text,true,,912,155,31,31,https://restful-booker.herokuapp.com/booking/3066,331,0,0
+1753979208683,1348,Create Token for Authentication,200,OK,Thread Group 1-89,text,true,,770,250,31,31,https://restful-booker.herokuapp.com/auth,1348,0,1008
+1753979209706,338,Create Booking,200,OK,Thread Group 1-86,text,true,,941,465,31,31,https://restful-booker.herokuapp.com/booking,338,0,0
+1753979209772,329,GET Booking,200,OK,Thread Group 1-83,text,true,,912,168,31,31,https://restful-booker.herokuapp.com/booking/3079,329,0,0
+1753979209778,331,GET Booking After Upadting,200,OK,Thread Group 1-77,text,true,,912,155,31,31,https://restful-booker.herokuapp.com/booking/3067,331,0,0
+1753979208782,1349,Create Token for Authentication,200,OK,Thread Group 1-90,text,true,,770,250,31,31,https://restful-booker.herokuapp.com/auth,1349,0,1008
+1753979209822,333,Update Booking,200,OK,Thread Group 1-80,text,true,,912,517,31,31,https://restful-booker.herokuapp.com/booking/3073,333,0,0
+1753979209822,334,Partial Upadate Booking,200,OK,Thread Group 1-73,text,true,,914,333,31,31,https://restful-booker.herokuapp.com/booking/3059,334,0,0
+1753979209823,335,Partial Upadate Booking,200,OK,Thread Group 1-74,text,true,,914,333,31,31,https://restful-booker.herokuapp.com/booking/3060,335,0,0
+1753979209830,338,GET Booking,200,OK,Thread Group 1-84,text,true,,912,168,31,31,https://restful-booker.herokuapp.com/booking/3081,338,0,0
+1753979209860,326,Create Booking,200,OK,Thread Group 1-87,text,true,,941,465,31,31,https://restful-booker.herokuapp.com/booking,326,0,0
+1753979209863,329,Delete Booking,201,Created,Thread Group 1-70,text,true,,747,281,31,31,https://restful-booker.herokuapp.com/booking/3051,329,0,0
+1753979208884,1361,Create Token for Authentication,200,OK,Thread Group 1-91,text,true,,770,250,30,30,https://restful-booker.herokuapp.com/auth,1361,0,1019
+1753979209931,326,Update Booking,200,OK,Thread Group 1-81,text,true,,912,517,30,30,https://restful-booker.herokuapp.com/booking/3076,326,0,0
+1753979209957,332,GET Booking,200,OK,Thread Group 1-85,text,true,,912,168,30,30,https://restful-booker.herokuapp.com/booking/3083,332,0,0
+1753979209956,344,Update Booking,200,OK,Thread Group 1-82,text,true,,912,517,30,30,https://restful-booker.herokuapp.com/booking/3077,344,0,0
+1753979209982,322,Create Booking,200,OK,Thread Group 1-88,text,true,,941,465,30,30,https://restful-booker.herokuapp.com/booking,322,0,0
+1753979208984,1345,Create Token for Authentication,200,OK,Thread Group 1-92,text,true,,770,250,30,30,https://restful-booker.herokuapp.com/auth,1345,0,1009
+1753979209993,340,Partial Upadate Booking,200,OK,Thread Group 1-75,text,true,,914,333,30,30,https://restful-booker.herokuapp.com/booking/3065,340,0,0
+1753979209998,336,Delete Booking,201,Created,Thread Group 1-72,text,true,,747,281,30,30,https://restful-booker.herokuapp.com/booking/3053,336,0,0
+1753979210008,342,GET Booking After Upadting,200,OK,Thread Group 1-78,text,true,,912,155,29,29,https://restful-booker.herokuapp.com/booking/3070,342,0,0
+1753979210013,342,Delete Booking,201,Created,Thread Group 1-71,text,true,,747,281,29,29,https://restful-booker.herokuapp.com/booking/3052,342,0,0
+1753979210014,346,GET Booking After Upadting,200,OK,Thread Group 1-79,text,true,,912,155,28,28,https://restful-booker.herokuapp.com/booking/3071,346,0,0
+1753979210031,346,Partial Upadate Booking,200,OK,Thread Group 1-76,text,true,,914,333,28,28,https://restful-booker.herokuapp.com/booking/3066,346,0,0
+1753979210032,357,Create Booking,200,OK,Thread Group 1-89,text,true,,941,465,28,28,https://restful-booker.herokuapp.com/booking,357,0,0
+1753979210045,347,GET Booking,200,OK,Thread Group 1-86,text,true,,912,168,28,28,https://restful-booker.herokuapp.com/booking/3085,347,0,0
+1753979209082,1349,Create Token for Authentication,200,OK,Thread Group 1-93,text,true,,770,250,28,28,https://restful-booker.herokuapp.com/auth,1349,0,1035
+1753979210102,346,Update Booking,200,OK,Thread Group 1-83,text,true,,912,517,28,28,https://restful-booker.herokuapp.com/booking/3079,346,0,0
+1753979210109,340,Partial Upadate Booking,200,OK,Thread Group 1-77,text,true,,914,333,28,28,https://restful-booker.herokuapp.com/booking/3067,340,0,0
+1753979210155,322,GET Booking After Upadting,200,OK,Thread Group 1-80,text,true,,912,155,28,28,https://restful-booker.herokuapp.com/booking/3073,322,0,0
+1753979210156,323,Delete Booking,201,Created,Thread Group 1-73,text,true,,747,281,28,28,https://restful-booker.herokuapp.com/booking/3059,323,0,0
+1753979210131,352,Create Booking,200,OK,Thread Group 1-90,text,true,,941,465,27,27,https://restful-booker.herokuapp.com/booking,352,0,0
+1753979210158,340,Delete Booking,201,Created,Thread Group 1-74,text,true,,747,281,27,27,https://restful-booker.herokuapp.com/booking/3060,340,0,0
+1753979210187,321,GET Booking,200,OK,Thread Group 1-87,text,true,,912,168,26,26,https://restful-booker.herokuapp.com/booking/3086,321,0,0
+1753979210169,351,Update Booking,200,OK,Thread Group 1-84,text,true,,912,517,26,26,https://restful-booker.herokuapp.com/booking/3081,351,0,0
+1753979209182,1368,Create Token for Authentication,200,OK,Thread Group 1-94,text,true,,770,250,26,26,https://restful-booker.herokuapp.com/auth,1368,0,1016
+1753979210257,320,GET Booking After Upadting,200,OK,Thread Group 1-81,text,true,,912,155,26,26,https://restful-booker.herokuapp.com/booking/3076,320,0,0
+1753979210246,354,Create Booking,200,OK,Thread Group 1-91,text,true,,941,465,26,26,https://restful-booker.herokuapp.com/booking,354,0,0
+1753979210305,321,GET Booking,200,OK,Thread Group 1-88,text,true,,912,168,26,26,https://restful-booker.herokuapp.com/booking/3088,321,0,0
+1753979210289,338,Update Booking,200,OK,Thread Group 1-85,text,true,,912,517,26,26,https://restful-booker.herokuapp.com/booking/3083,338,0,0
+1753979210301,348,GET Booking After Upadting,200,OK,Thread Group 1-82,text,true,,912,155,26,26,https://restful-booker.herokuapp.com/booking/3077,348,0,0
+1753979209283,1369,Create Token for Authentication,200,OK,Thread Group 1-95,text,true,,770,250,26,26,https://restful-booker.herokuapp.com/auth,1369,0,1025
+1753979210329,342,Create Booking,200,OK,Thread Group 1-92,text,true,,941,465,26,26,https://restful-booker.herokuapp.com/booking,342,0,0
+1753979210333,349,Delete Booking,201,Created,Thread Group 1-75,text,true,,747,281,26,26,https://restful-booker.herokuapp.com/booking/3065,349,0,0
+1753979210350,357,Partial Upadate Booking,200,OK,Thread Group 1-78,text,true,,914,333,25,25,https://restful-booker.herokuapp.com/booking/3070,357,0,0
+1753979210361,354,Partial Upadate Booking,200,OK,Thread Group 1-79,text,true,,914,333,25,25,https://restful-booker.herokuapp.com/booking/3071,354,0,0
+1753979210377,341,Delete Booking,201,Created,Thread Group 1-76,text,true,,747,281,25,25,https://restful-booker.herokuapp.com/booking/3066,341,0,0
+1753979209382,1344,Create Token for Authentication,200,OK,Thread Group 1-96,text,true,,770,250,24,24,https://restful-booker.herokuapp.com/auth,1344,0,1002
+1753979210392,350,Update Booking,200,OK,Thread Group 1-86,text,true,,912,517,24,24,https://restful-booker.herokuapp.com/booking/3085,350,0,0
+1753979210390,352,GET Booking,200,OK,Thread Group 1-89,text,true,,912,168,24,24,https://restful-booker.herokuapp.com/booking/3089,352,0,0
+1753979210432,316,Create Booking,200,OK,Thread Group 1-93,text,true,,941,465,24,24,https://restful-booker.herokuapp.com/booking,316,0,0
+1753979210449,338,Delete Booking,201,Created,Thread Group 1-77,text,true,,747,281,24,24,https://restful-booker.herokuapp.com/booking/3067,338,0,0
+1753979210448,350,GET Booking After Upadting,200,OK,Thread Group 1-83,text,true,,912,155,23,23,https://restful-booker.herokuapp.com/booking/3079,350,0,0
+1753979210478,328,Partial Upadate Booking,200,OK,Thread Group 1-80,text,true,,914,333,23,23,https://restful-booker.herokuapp.com/booking/3073,328,0,0
+1753979210508,324,Update Booking,200,OK,Thread Group 1-87,text,true,,912,517,23,23,https://restful-booker.herokuapp.com/booking/3086,324,0,0
+1753979210484,354,GET Booking,200,OK,Thread Group 1-90,text,true,,912,168,23,23,https://restful-booker.herokuapp.com/booking/3090,354,0,0
+1753979210520,347,GET Booking After Upadting,200,OK,Thread Group 1-84,text,true,,912,155,23,23,https://restful-booker.herokuapp.com/booking/3081,347,0,0
+1753979209483,1414,Create Token for Authentication,200,OK,Thread Group 1-97,text,true,,770,250,23,23,https://restful-booker.herokuapp.com/auth,1414,0,1060
+1753979210577,325,Partial Upadate Booking,200,OK,Thread Group 1-81,text,true,,914,333,23,23,https://restful-booker.herokuapp.com/booking/3076,325,0,0
+1753979210551,352,Create Booking,200,OK,Thread Group 1-94,text,true,,941,465,23,23,https://restful-booker.herokuapp.com/booking,352,0,0
+1753979209583,1330,Create Token for Authentication,200,OK,Thread Group 1-98,text,true,,770,250,23,23,https://restful-booker.herokuapp.com/auth,1330,0,995
+1753979210601,347,GET Booking,200,OK,Thread Group 1-91,text,true,,912,168,23,23,https://restful-booker.herokuapp.com/booking/3093,347,0,0
+1753979210626,355,Update Booking,200,OK,Thread Group 1-88,text,true,,912,517,23,23,https://restful-booker.herokuapp.com/booking/3088,355,0,0
+1753979210627,371,GET Booking After Upadting,200,OK,Thread Group 1-85,text,true,,912,155,23,23,https://restful-booker.herokuapp.com/booking/3083,371,0,0
+1753979210650,357,Partial Upadate Booking,200,OK,Thread Group 1-82,text,true,,914,333,23,23,https://restful-booker.herokuapp.com/booking/3077,356,0,0
+1753979210653,357,Create Booking,200,OK,Thread Group 1-95,text,true,,941,465,23,23,https://restful-booker.herokuapp.com/booking,357,0,0
+1753979210672,343,GET Booking,200,OK,Thread Group 1-92,text,true,,912,168,23,23,https://restful-booker.herokuapp.com/booking/3094,343,0,0
+1753979209682,1362,Create Token for Authentication,200,OK,Thread Group 1-99,text,true,,770,250,23,23,https://restful-booker.herokuapp.com/auth,1362,0,1013
+1753979210716,343,Delete Booking,201,Created,Thread Group 1-79,text,true,,747,281,23,23,https://restful-booker.herokuapp.com/booking/3071,343,0,0
+1753979210707,356,Delete Booking,201,Created,Thread Group 1-78,text,true,,747,281,22,22,https://restful-booker.herokuapp.com/booking/3070,356,0,0
+1753979210726,342,Create Booking,200,OK,Thread Group 1-96,text,true,,941,465,21,21,https://restful-booker.herokuapp.com/booking,342,0,0
+1753979210749,321,GET Booking,200,OK,Thread Group 1-93,text,true,,912,168,21,21,https://restful-booker.herokuapp.com/booking/3096,321,0,0
+1753979210743,334,GET Booking After Upadting,200,OK,Thread Group 1-86,text,true,,912,155,21,21,https://restful-booker.herokuapp.com/booking/3085,334,0,0
+1753979210743,338,Update Booking,200,OK,Thread Group 1-89,text,true,,912,517,21,21,https://restful-booker.herokuapp.com/booking/3089,338,0,0
+1753979210807,326,Delete Booking,201,Created,Thread Group 1-80,text,true,,747,281,21,21,https://restful-booker.herokuapp.com/booking/3073,326,0,0
+1753979210799,353,Partial Upadate Booking,200,OK,Thread Group 1-83,text,true,,914,333,20,20,https://restful-booker.herokuapp.com/booking/3079,353,0,0
+1753979210833,326,GET Booking After Upadting,200,OK,Thread Group 1-87,text,true,,912,155,20,20,https://restful-booker.herokuapp.com/booking/3086,326,0,0
+1753979210839,327,Update Booking,200,OK,Thread Group 1-90,text,true,,912,517,20,20,https://restful-booker.herokuapp.com/booking/3090,327,0,0
+1753979209783,1413,Create Token for Authentication,200,OK,Thread Group 1-100,text,true,,770,250,20,20,https://restful-booker.herokuapp.com/auth,1413,0,1055
+1753979210868,335,Partial Upadate Booking,200,OK,Thread Group 1-84,text,true,,914,333,20,20,https://restful-booker.herokuapp.com/booking/3081,335,0,0
+1753979210897,329,Create Booking,200,OK,Thread Group 1-97,text,true,,941,465,20,20,https://restful-booker.herokuapp.com/booking,329,0,0
+1753979210904,323,GET Booking,200,OK,Thread Group 1-94,text,true,,912,168,20,20,https://restful-booker.herokuapp.com/booking/3099,323,0,0
+1753979210902,335,Delete Booking,201,Created,Thread Group 1-81,text,true,,747,281,20,20,https://restful-booker.herokuapp.com/booking/3076,335,0,0
+1753979210914,338,Create Booking,200,OK,Thread Group 1-98,text,true,,941,465,19,19,https://restful-booker.herokuapp.com/booking,338,0,0
+1753979210948,322,Update Booking,200,OK,Thread Group 1-91,text,true,,912,517,19,19,https://restful-booker.herokuapp.com/booking/3093,322,0,0
+1753979210982,336,GET Booking After Upadting,200,OK,Thread Group 1-88,text,true,,912,155,19,19,https://restful-booker.herokuapp.com/booking/3088,336,0,0
+1753979211007,315,Delete Booking,201,Created,Thread Group 1-82,text,true,,747,281,19,19,https://restful-booker.herokuapp.com/booking/3077,315,0,0
+1753979210998,340,Partial Upadate Booking,200,OK,Thread Group 1-85,text,true,,914,333,18,18,https://restful-booker.herokuapp.com/booking/3083,340,0,0
+1753979211015,337,Update Booking,200,OK,Thread Group 1-92,text,true,,912,517,18,18,https://restful-booker.herokuapp.com/booking/3094,337,0,0
+1753979211011,344,GET Booking,200,OK,Thread Group 1-95,text,true,,912,168,18,18,https://restful-booker.herokuapp.com/booking/3101,344,0,0
+1753979211045,344,Create Booking,200,OK,Thread Group 1-99,text,true,,941,465,18,18,https://restful-booker.herokuapp.com/booking,344,0,0
+1753979211077,319,Partial Upadate Booking,200,OK,Thread Group 1-86,text,true,,914,333,18,18,https://restful-booker.herokuapp.com/booking/3085,319,0,0
+1753979211081,317,GET Booking After Upadting,200,OK,Thread Group 1-89,text,true,,912,155,18,18,https://restful-booker.herokuapp.com/booking/3089,317,0,0
+1753979211070,337,Update Booking,200,OK,Thread Group 1-93,text,true,,912,517,18,18,https://restful-booker.herokuapp.com/booking/3096,337,0,0
+1753979211069,342,GET Booking,200,OK,Thread Group 1-96,text,true,,912,168,18,18,https://restful-booker.herokuapp.com/booking/3102,342,0,0
+1753979211166,328,GET Booking After Upadting,200,OK,Thread Group 1-90,text,true,,912,155,18,18,https://restful-booker.herokuapp.com/booking/3090,327,0,0
+1753979211152,345,Delete Booking,201,Created,Thread Group 1-83,text,true,,747,281,18,18,https://restful-booker.herokuapp.com/booking/3079,345,0,0
+1753979211160,337,Partial Upadate Booking,200,OK,Thread Group 1-87,text,true,,914,333,18,18,https://restful-booker.herokuapp.com/booking/3086,337,0,0
+1753979211204,317,Delete Booking,201,Created,Thread Group 1-84,text,true,,747,281,17,17,https://restful-booker.herokuapp.com/booking/3081,317,0,0
+1753979211197,346,Create Booking,200,OK,Thread Group 1-100,text,true,,941,465,16,16,https://restful-booker.herokuapp.com/booking,346,0,0
+1753979211228,318,Update Booking,200,OK,Thread Group 1-94,text,true,,912,517,16,16,https://restful-booker.herokuapp.com/booking/3099,318,0,0
+1753979211227,323,GET Booking,200,OK,Thread Group 1-97,text,true,,912,168,16,16,https://restful-booker.herokuapp.com/booking/3105,323,0,0
+1753979211253,338,GET Booking,200,OK,Thread Group 1-98,text,true,,912,168,16,16,https://restful-booker.herokuapp.com/booking/3106,338,0,0
+1753979211271,320,GET Booking After Upadting,200,OK,Thread Group 1-91,text,true,,912,155,16,16,https://restful-booker.herokuapp.com/booking/3093,320,0,0
+1753979211318,336,Partial Upadate Booking,200,OK,Thread Group 1-88,text,true,,914,333,16,16,https://restful-booker.herokuapp.com/booking/3088,336,0,0
+1753979211339,337,Delete Booking,201,Created,Thread Group 1-85,text,true,,747,281,16,16,https://restful-booker.herokuapp.com/booking/3083,337,0,0
+1753979211353,336,GET Booking After Upadting,200,OK,Thread Group 1-92,text,true,,912,155,15,15,https://restful-booker.herokuapp.com/booking/3094,336,0,0
+1753979211355,353,Update Booking,200,OK,Thread Group 1-95,text,true,,912,517,15,15,https://restful-booker.herokuapp.com/booking/3101,353,0,0
+1753979211389,327,GET Booking,200,OK,Thread Group 1-99,text,true,,912,168,15,15,https://restful-booker.herokuapp.com/booking/3108,327,0,0
+1753979211396,323,Delete Booking,201,Created,Thread Group 1-86,text,true,,747,281,15,15,https://restful-booker.herokuapp.com/booking/3085,323,0,0
+1753979211399,325,Partial Upadate Booking,200,OK,Thread Group 1-89,text,true,,914,333,14,14,https://restful-booker.herokuapp.com/booking/3089,325,0,0
+1753979211407,331,GET Booking After Upadting,200,OK,Thread Group 1-93,text,true,,912,155,14,14,https://restful-booker.herokuapp.com/booking/3096,331,0,0
+1753979211412,338,Update Booking,200,OK,Thread Group 1-96,text,true,,912,517,14,14,https://restful-booker.herokuapp.com/booking/3102,338,0,0
+1753979211494,331,Partial Upadate Booking,200,OK,Thread Group 1-90,text,true,,914,333,14,14,https://restful-booker.herokuapp.com/booking/3090,331,0,0
+1753979211498,340,Delete Booking,201,Created,Thread Group 1-87,text,true,,747,281,14,14,https://restful-booker.herokuapp.com/booking/3086,340,0,0
+1753979211546,329,GET Booking After Upadting,200,OK,Thread Group 1-94,text,true,,908,155,13,13,https://restful-booker.herokuapp.com/booking/3099,329,0,0
+1753979211544,333,GET Booking,200,OK,Thread Group 1-100,text,true,,912,168,13,13,https://restful-booker.herokuapp.com/booking/3110,333,0,0
+1753979211551,334,Update Booking,200,OK,Thread Group 1-97,text,true,,908,517,13,13,https://restful-booker.herokuapp.com/booking/3105,334,0,0
+1753979211592,336,Partial Upadate Booking,200,OK,Thread Group 1-91,text,true,,910,333,13,13,https://restful-booker.herokuapp.com/booking/3093,336,0,0
+1753979211592,344,Update Booking,200,OK,Thread Group 1-98,text,true,,908,517,13,13,https://restful-booker.herokuapp.com/booking/3106,344,0,0
+1753979211655,346,Delete Booking,201,Created,Thread Group 1-88,text,true,,743,281,13,13,https://restful-booker.herokuapp.com/booking/3088,346,0,0
+1753979211690,347,Partial Upadate Booking,200,OK,Thread Group 1-92,text,true,,910,333,12,12,https://restful-booker.herokuapp.com/booking/3094,347,0,0
+1753979211716,331,Update Booking,200,OK,Thread Group 1-99,text,true,,908,517,12,12,https://restful-booker.herokuapp.com/booking/3108,331,0,0
+1753979211724,332,Delete Booking,201,Created,Thread Group 1-89,text,true,,743,281,12,12,https://restful-booker.herokuapp.com/booking/3089,332,0,0
+1753979211709,349,GET Booking After Upadting,200,OK,Thread Group 1-95,text,true,,908,155,11,11,https://restful-booker.herokuapp.com/booking/3101,349,0,0
+1753979211739,337,Partial Upadate Booking,200,OK,Thread Group 1-93,text,true,,910,333,11,11,https://restful-booker.herokuapp.com/booking/3096,337,0,0
+1753979211751,348,GET Booking After Upadting,200,OK,Thread Group 1-96,text,true,,908,155,11,11,https://restful-booker.herokuapp.com/booking/3102,348,0,0
+1753979211826,334,Delete Booking,201,Created,Thread Group 1-90,text,true,,743,281,11,11,https://restful-booker.herokuapp.com/booking/3090,334,0,0
+1753979211875,339,Partial Upadate Booking,200,OK,Thread Group 1-94,text,true,,910,333,10,10,https://restful-booker.herokuapp.com/booking/3099,339,0,0
+1753979211886,337,GET Booking After Upadting,200,OK,Thread Group 1-97,text,true,,908,155,10,10,https://restful-booker.herokuapp.com/booking/3105,337,0,0
+1753979211878,353,Update Booking,200,OK,Thread Group 1-100,text,true,,908,517,10,10,https://restful-booker.herokuapp.com/booking/3110,353,0,0
+1753979211929,336,Delete Booking,201,Created,Thread Group 1-91,text,true,,743,281,10,10,https://restful-booker.herokuapp.com/booking/3093,336,0,0
+1753979211936,344,GET Booking After Upadting,200,OK,Thread Group 1-98,text,true,,908,155,9,9,https://restful-booker.herokuapp.com/booking/3106,344,0,0
+1753979212048,340,GET Booking After Upadting,200,OK,Thread Group 1-99,text,true,,908,155,9,9,https://restful-booker.herokuapp.com/booking/3108,340,0,0
+1753979212038,350,Delete Booking,201,Created,Thread Group 1-92,text,true,,743,281,9,9,https://restful-booker.herokuapp.com/booking/3094,350,0,0
+1753979212059,356,Partial Upadate Booking,200,OK,Thread Group 1-95,text,true,,910,333,8,8,https://restful-booker.herokuapp.com/booking/3101,356,0,0
+1753979212077,344,Delete Booking,201,Created,Thread Group 1-93,text,true,,743,281,8,8,https://restful-booker.herokuapp.com/booking/3096,344,0,0
+1753979212099,353,Partial Upadate Booking,200,OK,Thread Group 1-96,text,true,,910,333,7,7,https://restful-booker.herokuapp.com/booking/3102,353,0,0
+1753979212215,346,Delete Booking,201,Created,Thread Group 1-94,text,true,,743,281,7,7,https://restful-booker.herokuapp.com/booking/3099,346,0,0
+1753979212223,347,Partial Upadate Booking,200,OK,Thread Group 1-97,text,true,,910,333,6,6,https://restful-booker.herokuapp.com/booking/3105,347,0,0
+1753979212232,361,GET Booking After Upadting,200,OK,Thread Group 1-100,text,true,,908,155,6,6,https://restful-booker.herokuapp.com/booking/3110,361,0,0
+1753979212281,349,Partial Upadate Booking,200,OK,Thread Group 1-98,text,true,,910,333,6,6,https://restful-booker.herokuapp.com/booking/3106,349,0,0
+1753979212388,352,Partial Upadate Booking,200,OK,Thread Group 1-99,text,true,,910,333,6,6,https://restful-booker.herokuapp.com/booking/3108,352,0,0
+1753979212416,360,Delete Booking,201,Created,Thread Group 1-95,text,true,,743,281,6,6,https://restful-booker.herokuapp.com/booking/3101,360,0,0
+1753979212452,356,Delete Booking,201,Created,Thread Group 1-96,text,true,,743,281,5,5,https://restful-booker.herokuapp.com/booking/3102,356,0,0
+1753979212571,355,Delete Booking,201,Created,Thread Group 1-97,text,true,,743,281,4,4,https://restful-booker.herokuapp.com/booking/3105,355,0,0
+1753979212594,363,Partial Upadate Booking,200,OK,Thread Group 1-100,text,true,,910,333,3,3,https://restful-booker.herokuapp.com/booking/3110,363,0,0
+1753979212631,355,Delete Booking,201,Created,Thread Group 1-98,text,true,,743,281,3,3,https://restful-booker.herokuapp.com/booking/3106,355,0,0
+1753979212741,352,Delete Booking,201,Created,Thread Group 1-99,text,true,,743,281,2,2,https://restful-booker.herokuapp.com/booking/3108,352,0,0
+1753979212957,351,Delete Booking,201,Created,Thread Group 1-100,text,true,,743,281,1,1,https://restful-booker.herokuapp.com/booking/3110,351,0,0
