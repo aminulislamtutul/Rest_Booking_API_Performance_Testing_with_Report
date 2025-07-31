@@ -1,4 +1,4 @@
-### Rest reqres API Performance Testing with Report
+### Rest Booking API Performance Testing with Report
 This project demonstrates performance testing using JMeter of tests for load testing of the API.
 ## Feature
 - Load Testing
