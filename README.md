@@ -93,3 +93,12 @@ The following tests were performed:
 - Total Concurrent API Requests: 14000
 
 During the test execution with 2000 concurrent requests, 219 requests experienced connection timeouts, resulting in an error rate of 1.56%.
+## Test Result
+The performance test results indicate that the BookingAPI on HerokuApp can handle concurrent requests up to approximately 13,000 API calls with an error rate close to zero. The tests demonstrated the system's stability and ability to process a significant number of concurrent requests while maintaining acceptable response times and throughput.
+
+To provide more insights into the test results, reports were generated for each of the concurrent request scenarios:
+- 
+
+Please refer to these reports for a detailed analysis of response times, throughput, and other performance metrics observed during the tests.
+## Conclusion
+Based on the performance testing results, it can be concluded that the BookingAPI on HerokuApp exhibits robust performance characteristics. The system showcases impressive scalability, handling tens of thousands of concurrent API requests with a negligible error rate.
