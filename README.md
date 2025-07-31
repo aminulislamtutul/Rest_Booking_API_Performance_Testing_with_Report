@@ -91,3 +91,5 @@ The following tests were performed:
 16. 2000 Concurrent Requests with 1 Loop Count:
 - Average Transactions Per Second (TPS) for Total Samples: ~226
 - Total Concurrent API Requests: 14000
+
+During the test execution with 2000 concurrent requests, 219 requests experienced connection timeouts, resulting in an error rate of 1.56%.
