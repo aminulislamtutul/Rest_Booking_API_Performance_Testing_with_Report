@@ -2,7 +2,7 @@
 This project demonstrates performance testing using JMeter of tests for load testing of the API.
 ## Feature
 - Load Testing
-- Tests for GET, POST, PUT, DELETE requests
+- Tests for GET, POST, PUT, PATCH, DELETE requests
 ## Technology Used
 - JMeter
 ## Perrequisite
